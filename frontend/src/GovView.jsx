@@ -6,6 +6,7 @@ function GovView() {
   const [filterDistrict, setFilterDistrict] = useState('')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
+  const [approvedMap, setApprovedMap] = useState({})   // aadhaar → 'loading' | 'done' | 'error'
 
   useEffect(() => {
     fetch('http://localhost:5000/citizens')
@@ -20,6 +21,27 @@ function GovView() {
       })
   }, [])
 
+  const handleApprove = (citizen) => {
+    setApprovedMap(prev => ({ ...prev, [citizen.aadhaar]: 'loading' }))
+
+    fetch('http://localhost:5000/approve', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ aadhaar: citizen.aadhaar })
+    })
+      .then(res => res.json())
+      .then(data => {
+        if (data.status === 'approved') {
+          setApprovedMap(prev => ({ ...prev, [citizen.aadhaar]: 'done' }))
+        } else {
+          setApprovedMap(prev => ({ ...prev, [citizen.aadhaar]: 'error' }))
+        }
+      })
+      .catch(() => {
+        setApprovedMap(prev => ({ ...prev, [citizen.aadhaar]: 'error' }))
+      })
+  }
+
   const filtered = citizens.filter(c =>
     (!filterTier || c.priority_tier === filterTier) &&
     (!filterDistrict || c.district === filterDistrict)
@@ -28,6 +50,65 @@ function GovView() {
   const total = citizens.reduce((s, c) => s + c.compensation_inr, 0)
   const critical = citizens.filter(c => c.priority_tier === 'Critical').length
   const high = citizens.filter(c => c.priority_tier === 'High').length
+
+  const approveBtn = (citizen) => {
+    const status = approvedMap[citizen.aadhaar]
+
+    if (status === 'loading') return (
+      <button style={{
+        padding: '6px 14px', borderRadius: '8px', border: 'none',
+        background: '#e2e8f0', color: '#94a3b8',
+        fontSize: '12px', fontWeight: 600, cursor: 'not-allowed'
+      }}>
+        Sending...
+      </button>
+    )
+
+    if (status === 'done') return (
+      <span style={{
+        display: 'inline-flex', alignItems: 'center', gap: '5px',
+        padding: '6px 14px', borderRadius: '8px',
+        background: '#EAF3DE', color: '#3B6D11',
+        fontSize: '12px', fontWeight: 700,
+        border: '1px solid #97C459'
+      }}>
+        ✓ Email Sent
+      </span>
+    )
+
+    if (status === 'error') return (
+      <button
+        onClick={() => handleApprove(citizen)}
+        style={{
+          padding: '6px 14px', borderRadius: '8px', border: '1.5px solid #F7C1C1',
+          background: '#FCEBEB', color: '#A32D2D',
+          fontSize: '12px', fontWeight: 600, cursor: 'pointer'
+        }}>
+        ✕ Retry
+      </button>
+    )
+
+    // default — not yet approved
+    return (
+      <button
+        onClick={() => handleApprove(citizen)}
+        style={{
+          padding: '6px 16px', borderRadius: '8px', border: 'none',
+          background: 'linear-gradient(135deg, #378ADD, #185FA5)',
+          color: '#fff', fontSize: '12px', fontWeight: 700,
+          cursor: 'pointer', transition: 'all .2s',
+          boxShadow: '0 2px 8px rgba(24,95,165,0.35)'
+        }}
+        onMouseOver={e => e.currentTarget.style.transform = 'translateY(-1px)'}
+        onMouseOut={e => e.currentTarget.style.transform = 'translateY(0)'}
+      >
+        Approve
+      </button>
+    )
+  }
+
+  // count how many approved so far
+  const approvedCount = Object.values(approvedMap).filter(v => v === 'done').length
 
   return (
     <div className="view">
@@ -62,6 +143,10 @@ function GovView() {
               <p>Uniform would cost</p>
               <h3 style={{ color: '#94a3b8' }}>₹{(citizens.length * 25000).toLocaleString('en-IN')}</h3>
             </div>
+            <div className="stat">
+              <p>Approvals Sent</p>
+              <h3 style={{ color: '#3B6D11' }}>{approvedCount}</h3>
+            </div>
           </div>
 
           <div className="filters">
@@ -82,6 +167,19 @@ function GovView() {
             </select>
           </div>
 
+          {/* approved banner */}
+          {approvedCount > 0 && (
+            <div style={{
+              background: 'rgba(59,109,17,0.2)', border: '1px solid rgba(151,196,89,0.5)',
+              borderRadius: '12px', padding: '12px 18px', marginBottom: '16px',
+              color: '#fff', fontSize: '13px', fontWeight: 600,
+              backdropFilter: 'blur(12px)', display: 'flex', alignItems: 'center', gap: '8px'
+            }}>
+              <span style={{ fontSize: '16px' }}>✅</span>
+              {approvedCount} citizen{approvedCount > 1 ? 's' : ''} approved — email notification{approvedCount > 1 ? 's' : ''} sent successfully
+            </div>
+          )}
+
           <div className="table-wrap">
             <table>
               <thead>
@@ -93,6 +191,7 @@ function GovView() {
                   <th>Score</th>
                   <th>Tier</th>
                   <th>Compensation</th>
+                  <th>Action</th>
                 </tr>
               </thead>
               <tbody>
@@ -113,6 +212,7 @@ function GovView() {
                       </span>
                     </td>
                     <td>₹{c.compensation_inr.toLocaleString('en-IN')}</td>
+                    <td>{approveBtn(c)}</td>
                   </tr>
                 ))}
               </tbody>

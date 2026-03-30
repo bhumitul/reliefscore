@@ -9,9 +9,51 @@ from flask_cors import CORS
 import pandas as pd
 import numpy as np
 import pickle
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
+
+# -----------------------------------------------------------
+# EMAIL CONFIG — fill these in ⚠️
+# -----------------------------------------------------------
+SENDER_EMAIL = "jainpreetisha@gmail.com"       # ← your Gmail address
+SENDER_PASSWORD = "ickl uixo bhhg nofx"     # ← 16-char App Password
+
+def send_email(to_email, citizen_name, compensation_amount, aadhaar):
+    subject = "Your Flood Relief Compensation Has Been Approved - ReliefScore"
+    body = f"""Dear {citizen_name},
+
+We are pleased to inform you that your flood relief compensation has been approved.
+
+Compensation Amount : Rs.{compensation_amount:,}
+Aadhaar (last 4)    : XXXX-XXXX-{str(aadhaar)[-4:]}
+Status              : APPROVED
+
+The amount will be credited to your registered bank account shortly.
+
+If you have any questions, please contact your district relief office.
+
+Regards,
+ReliefScore Team
+Government Flood Relief Portal
+"""
+    try:
+        msg = MIMEMultipart()
+        msg["From"] = SENDER_EMAIL
+        msg["To"] = to_email
+        msg["Subject"] = subject
+        msg.attach(MIMEText(body, "plain"))
+
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(SENDER_EMAIL, SENDER_PASSWORD)
+            server.sendmail(SENDER_EMAIL, to_email, msg.as_string())
+
+        return {"success": True, "message": f"Email sent to {to_email}"}
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 
 # -----------------------------------------------------------
 # LOAD MODEL AND DATA ON STARTUP
@@ -30,7 +72,7 @@ feature_importance = bundle["feature_importance"]
 df = pd.read_csv("citizens.csv")
 
 # -----------------------------------------------------------
-# PRE-CALCULATE ALL SCORES AT STARTUP (runs once)
+# PRE-CALCULATE ALL SCORES AT STARTUP
 # -----------------------------------------------------------
 print("Pre-calculating vulnerability scores for all citizens...")
 
@@ -73,6 +115,8 @@ def row_to_dict(row):
         "aadhaar": row["aadhaar"],
         "name": row["name"],
         "age": int(row["age"]),
+        "phone": str(row["phone"]),
+        "email": str(row["email"]),
         "district": row["district"],
         "income_category": row["income_category"].replace("_", " ").title(),
         "annual_income": int(row["annual_income"]),
@@ -117,6 +161,10 @@ ALL_CITIZENS = [row_to_dict(row) for _, row in df.iterrows()]
 ALL_CITIZENS.sort(key=lambda x: x["vulnerability_score"], reverse=True)
 print("Citizens list ready to serve instantly.")
 
+# -----------------------------------------------------------
+# ROUTES
+# -----------------------------------------------------------
+
 @app.route("/citizens", methods=["GET"])
 def get_all_citizens():
     result = ALL_CITIZENS
@@ -141,6 +189,36 @@ def predict():
     if not match:
         return jsonify({"error": "Citizen not found. Please verify your Aadhaar number."}), 404
     return jsonify({"citizen": match})
+
+# -----------------------------------------------------------
+# ADMIN APPROVE ROUTE WITH EMAIL
+# -----------------------------------------------------------
+@app.route("/approve", methods=["POST"])
+def approve_compensation():
+    data = request.get_json()
+    aadhaar = data.get("aadhaar", "").strip()
+
+    if not aadhaar:
+        return jsonify({"error": "Aadhaar number is required"}), 400
+
+    citizen = next((c for c in ALL_CITIZENS if c["aadhaar"] == aadhaar), None)
+
+    if not citizen:
+        return jsonify({"error": "Citizen not found"}), 404
+
+    email_result = send_email(
+        to_email=citizen["email"],
+        citizen_name=citizen["name"],
+        compensation_amount=citizen["compensation_inr"],
+        aadhaar=citizen["aadhaar"]
+    )
+
+    return jsonify({
+        "status": "approved",
+        "citizen": citizen["name"],
+        "compensation_inr": citizen["compensation_inr"],
+        "email_sent": email_result
+    })
 
 @app.route("/feature-importance", methods=["GET"])
 def get_feature_importance():
