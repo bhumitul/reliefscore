@@ -1,0 +1,501 @@
+aadhaar,name,age,district,income_category,annual_income,livelihood,land_owned,house_type,house_ownership,dependents,is_sole_earner,has_insurance,savings_months,employer_support,family_support,previously_excluded,flood_severity,vulnerability_score,priority_tier,compensation_inr
+2535 4582 4811,Suresh Kumar,54,"Darbhanga, Bihar",poor,44628,daily_wage,0.0,semi_pucca,rented,6,1,0,0.7,0,0,0,28,88,Critical,100000
+6574 5552 3547,Vijay Yadav,35,"Alappuzha, Kerala",middle,232124,farmer,3.8,pucca,owned,3,0,0,3.2,0,1,0,20,42,Medium,20000
+5803 6925 4150,Murugan Das,67,"Morigaon, Assam",poor,53526,daily_wage,0.0,kutcha,owned,2,0,0,0.8,0,0,0,25,70,High,75000
+7065 6820 4432,Radha Patel,64,"Darbhanga, Bihar",poor,48965,daily_wage,0.0,semi_pucca,rented,5,0,0,0.9,0,0,0,28,83,Critical,100000
+1916 4752 1525,Santosh Mehta,42,"Morigaon, Assam",lower_middle,150010,daily_wage,0.0,semi_pucca,owned,4,0,0,1.1,0,0,0,25,70,High,50000
+5339 3287 5040,Parvathi Singh,57,"Srikakulam, Andhra Pradesh",poor,67170,daily_wage,0.0,kutcha,rented,6,0,0,0.7,0,0,0,22,82,Critical,100000
+3504 3621 7916,Anita Devi,60,"Alappuzha, Kerala",middle,333245,salaried_private,0.0,pucca,owned,2,0,0,2.8,0,1,0,20,39,Medium,20000
+6573 2827 5808,Siva Rao,49,"Darbhanga, Bihar",poor,60674,farmer,1.0,kutcha,owned,2,1,0,0.0,0,0,0,28,72,High,75000
+4258 3504 7126,Rajesh Chaudhary,32,"Araria, Bihar",poor,77164,farmer,0.5,kutcha,owned,3,1,0,0.9,0,0,1,26,80,Critical,100000
+2290 2403 8962,Rekha Menon,26,"Alappuzha, Kerala",lower_middle,82552,daily_wage,0.0,semi_pucca,rented,2,1,0,3.0,0,0,1,20,70,High,50000
+7537 7118 8177,Prakash Pillai,55,"Alappuzha, Kerala",lower_middle,152063,farmer,1.6,kutcha,owned,1,1,0,2.9,0,0,0,20,64,High,50000
+2104 1514 6413,Anita Reddy,26,"Srikakulam, Andhra Pradesh",poor,52156,daily_wage,0.0,kutcha,rented,3,1,0,0.6,0,1,0,22,77,Critical,100000
+2545 2588 8062,Govind Nair,44,"Alappuzha, Kerala",lower_middle,108080,farmer,1.9,semi_pucca,owned,4,0,0,1.7,0,1,0,20,54,High,50000
+4116 9786 8350,Rekha Nair,30,"Srikakulam, Andhra Pradesh",poor,33550,farmer,1.0,kutcha,owned,3,1,0,0.4,0,1,0,22,66,High,75000
+3724 7658 8956,Kavitha Reddy,52,"Srikakulam, Andhra Pradesh",lower_middle,89880,farmer,2.2,semi_pucca,owned,0,0,0,0.2,0,0,0,22,48,Medium,30000
+4111 5861 4566,Nalini Singh,25,"Araria, Bihar",lower_middle,80282,small_business,0.0,kutcha,rented,2,0,0,2.4,0,0,1,26,75,Critical,75000
+2122 2113 4853,Kavitha Patel,47,"Alappuzha, Kerala",poor,33286,daily_wage,0.0,semi_pucca,rented,5,1,0,0.9,0,1,0,20,75,Critical,100000
+5351 7484 3144,Babu Reddy,64,"Darbhanga, Bihar",rich,966688,business_owner,8.0,pucca,owned,4,0,1,15.4,0,0,0,28,28,Medium,0
+2127 5002 7054,Arvind Jha,40,"Morigaon, Assam",poor,34754,farmer,0.6,kutcha,owned,1,1,0,0.1,0,0,0,25,69,High,75000
+5333 2891 2753,Rajan Singh,57,"Araria, Bihar",middle,364428,salaried_private,0.0,pucca,owned,3,1,0,5.0,0,0,0,26,55,High,35000
+7939 5533 1722,Anita Das,22,"Araria, Bihar",poor,77029,daily_wage,0.0,kutcha,owned,3,1,0,0.9,0,0,1,26,86,Critical,100000
+1590 7049 3426,Lakshmi Iyer,49,"Morigaon, Assam",poor,40589,daily_wage,0.0,semi_pucca,owned,5,0,0,0.4,0,1,1,25,75,Critical,100000
+3532 4878 3662,Govind Chaudhary,33,"Araria, Bihar",poor,32614,daily_wage,0.0,kutcha,owned,4,0,0,0.2,0,1,0,26,71,High,75000
+7267 1634 8711,Vijay Devi,36,"Srikakulam, Andhra Pradesh",poor,51770,daily_wage,0.0,kutcha,owned,3,0,0,0.7,0,0,1,22,77,Critical,100000
+9346 7548 9785,Pushpa Jha,43,"Araria, Bihar",lower_middle,109831,small_business,0.0,semi_pucca,rented,2,1,0,1.2,0,1,1,26,70,High,50000
+9379 2894 7311,Babu Yadav,58,"Darbhanga, Bihar",rich,1548967,salaried_govt,0.0,pucca,owned,4,0,0,6.7,1,0,0,28,34,Medium,0
+8066 2146 6409,Prakash Jha,61,"Araria, Bihar",upper_middle,771607,small_business,0.0,semi_pucca,owned,5,0,1,10.3,0,0,0,26,45,Medium,10000
+3851 5930 7653,Govind Mishra,57,"Morigaon, Assam",lower_middle,146469,daily_wage,0.0,semi_pucca,owned,5,1,0,1.2,0,1,1,25,80,Critical,75000
+5649 9445 6491,Vijay Das,27,"Darbhanga, Bihar",poor,68009,daily_wage,0.0,kutcha,rented,2,1,0,0.4,0,0,0,28,83,Critical,100000
+4185 7291 9099,Govind Menon,47,"Araria, Bihar",poor,39656,daily_wage,0.0,kutcha,owned,2,1,0,0.5,0,0,1,26,81,Critical,100000
+1822 5082 2988,Kamala Gupta,51,"Araria, Bihar",poor,79215,daily_wage,0.0,semi_pucca,owned,2,0,0,0.8,0,1,0,26,61,High,75000
+9976 8305 3607,Rajesh Yadav,52,"Araria, Bihar",middle,319233,salaried_private,0.0,pucca,owned,3,0,0,5.8,0,0,0,26,50,High,35000
+5451 6502 6238,Mahesh Reddy,56,"Srikakulam, Andhra Pradesh",poor,48173,daily_wage,0.0,kutcha,owned,3,0,0,0.6,0,1,1,22,72,High,75000
+7883 7381 1320,Anita Nair,58,"Darbhanga, Bihar",poor,75478,daily_wage,0.0,kutcha,rented,4,1,0,0.4,0,1,0,28,83,Critical,100000
+4595 5471 8140,Santosh Thakur,53,"Srikakulam, Andhra Pradesh",poor,49569,farmer,0.9,kutcha,owned,6,0,0,0.4,0,0,0,22,71,High,75000
+1444 2375 8022,Priya Mishra,30,"Darbhanga, Bihar",middle,355341,salaried_private,0.0,semi_pucca,owned,2,0,0,1.8,0,1,0,28,51,High,35000
+2341 8705 1317,Govind Rao,56,"Srikakulam, Andhra Pradesh",poor,51453,daily_wage,0.0,kutcha,rented,4,1,0,0.8,0,0,0,22,82,Critical,100000
+3068 8758 2874,Lakshmi Reddy,58,"Darbhanga, Bihar",middle,350431,salaried_private,0.0,semi_pucca,owned,4,1,0,1.2,1,1,0,28,53,High,35000
+1420 6111 7149,Saranya Devi,47,"Araria, Bihar",middle,247172,salaried_private,0.0,pucca,owned,1,0,1,4.0,0,1,0,26,25,Medium,20000
+9728 8018 7071,Suresh Jha,26,"Araria, Bihar",poor,71106,daily_wage,0.0,semi_pucca,owned,1,1,0,0.3,0,0,0,26,71,High,75000
+3885 9548 5425,Lakshmi Yadav,61,"Alappuzha, Kerala",upper_middle,620231,small_business,0.0,semi_pucca,owned,3,0,1,11.6,0,0,0,20,34,Medium,10000
+7209 6511 1470,Parvathi Menon,53,"Alappuzha, Kerala",poor,77908,farmer,0.3,kutcha,owned,1,1,0,0.9,0,1,0,20,59,High,75000
+4954 7658 9004,Prakash Das,57,"Morigaon, Assam",poor,46931,daily_wage,0.0,kutcha,rented,2,1,0,0.7,0,1,1,25,80,Critical,100000
+9698 6632 7971,Radha Thakur,57,"Araria, Bihar",middle,366605,salaried_private,0.0,pucca,owned,4,0,0,1.5,0,0,0,26,55,High,35000
+4138 4545 8933,Siva Patel,39,"Morigaon, Assam",upper_middle,637893,small_business,0.0,pucca,owned,3,1,1,4.1,0,1,0,25,40,Medium,10000
+5786 3068 9042,Anita Iyer,28,"Alappuzha, Kerala",poor,49414,daily_wage,0.0,kutcha,owned,4,1,0,0.0,0,0,1,20,80,Critical,100000
+2213 1878 3485,Selvi Thakur,31,"Darbhanga, Bihar",middle,305492,salaried_private,0.0,semi_pucca,owned,3,0,1,1.3,0,0,0,28,46,Medium,20000
+5871 8025 6003,Deepak Gupta,58,"Alappuzha, Kerala",middle,245061,salaried_private,0.0,semi_pucca,owned,3,1,0,4.0,0,1,0,20,48,Medium,20000
+2229 3564 1043,Sunita Iyer,48,"Alappuzha, Kerala",lower_middle,93006,daily_wage,0.0,semi_pucca,owned,3,0,0,0.6,0,0,1,20,70,High,50000
+2880 9922 4683,Prakash Yadav,63,"Srikakulam, Andhra Pradesh",poor,48881,farmer,0.7,kutcha,rented,1,0,0,0.7,0,0,0,22,66,High,75000
+7594 5460 9199,Parvathi Pillai,56,"Araria, Bihar",poor,40873,daily_wage,0.0,kutcha,rented,4,0,0,0.8,0,0,1,26,86,Critical,100000
+1659 3870 8708,Priya Rao,55,"Srikakulam, Andhra Pradesh",poor,58313,farmer,0.6,kutcha,owned,3,0,1,0.2,0,0,0,22,51,High,75000
+3634 6403 7744,Babu Devi,66,"Srikakulam, Andhra Pradesh",upper_middle,706881,small_business,0.0,semi_pucca,owned,2,0,0,11.7,0,0,0,22,46,Medium,10000
+9889 8569 7770,Rajesh Kumar,25,"Srikakulam, Andhra Pradesh",lower_middle,179680,farmer,1.4,semi_pucca,owned,4,0,0,1.0,0,0,1,22,66,High,50000
+1472 4920 3594,Nalini Devi,41,"Araria, Bihar",poor,70986,daily_wage,0.0,semi_pucca,owned,1,1,0,0.3,0,1,1,26,71,High,75000
+9337 5479 7807,Nalini Pillai,52,"Alappuzha, Kerala",poor,44725,daily_wage,0.0,semi_pucca,owned,2,0,0,0.5,0,1,0,20,55,High,75000
+7798 6568 9318,Mohan Rao,39,"Srikakulam, Andhra Pradesh",upper_middle,689021,salaried_govt,0.0,pucca,owned,4,1,1,8.4,1,0,0,22,18,Low,0
+8460 6272 4090,Siva Mishra,66,"Darbhanga, Bihar",lower_middle,156931,farmer,1.8,semi_pucca,rented,5,0,0,1.3,0,0,1,28,82,Critical,75000
+1606 3068 9229,Lakshmi Thakur,59,"Araria, Bihar",middle,383304,salaried_private,0.0,semi_pucca,owned,2,0,0,3.4,0,0,0,26,49,Medium,20000
+6546 7512 2315,Arun Rao,43,"Morigaon, Assam",upper_middle,452277,salaried_private,0.0,pucca,owned,3,0,1,9.5,0,0,0,25,29,Medium,10000
+2480 8110 2612,Mahesh Reddy,62,"Alappuzha, Kerala",middle,344311,salaried_private,0.0,semi_pucca,owned,5,0,0,5.4,1,1,0,20,40,Medium,20000
+3868 2293 7267,Sunita Patel,61,"Darbhanga, Bihar",poor,31897,farmer,0.8,kutcha,owned,1,1,0,0.4,0,1,0,28,67,High,75000
+2210 8237 6661,Siva Patel,59,"Araria, Bihar",poor,60221,farmer,0.5,semi_pucca,rented,3,1,0,0.9,0,0,1,26,80,Critical,100000
+5847 5837 1359,Krishnan Menon,64,"Morigaon, Assam",middle,245561,salaried_private,0.0,pucca,owned,5,0,1,6.0,0,1,0,25,29,Medium,20000
+6772 4588 4115,Mahesh Reddy,61,"Srikakulam, Andhra Pradesh",poor,74944,daily_wage,0.0,kutcha,owned,3,0,0,0.9,0,0,0,22,72,High,75000
+7807 3877 4289,Mahesh Mehta,30,"Morigaon, Assam",lower_middle,162242,farmer,1.1,semi_pucca,rented,2,0,0,1.7,0,0,1,25,69,High,50000
+8673 2233 3306,Jyothi Devi,36,"Alappuzha, Kerala",poor,47860,daily_wage,0.0,semi_pucca,owned,2,0,0,0.8,0,0,0,20,60,High,75000
+2775 4830 8724,Murugan Jha,23,"Srikakulam, Andhra Pradesh",upper_middle,606870,small_business,0.0,semi_pucca,owned,2,1,1,7.1,0,0,0,22,36,Medium,10000
+9071 2902 2592,Suresh Pillai,37,"Alappuzha, Kerala",lower_middle,88285,farmer,1.4,semi_pucca,rented,4,0,0,1.9,0,1,1,20,64,High,50000
+9017 7686 5583,Govind Devi,24,"Alappuzha, Kerala",poor,73940,daily_wage,0.0,kutcha,owned,6,0,0,0.5,0,0,0,20,75,Critical,100000
+7523 5520 4109,Krishnan Sharma,29,"Morigaon, Assam",rich,2665189,business_owner,13.3,pucca,owned,2,0,1,18.3,0,0,0,25,20,Low,0
+4394 4538 4817,Geetha Das,43,"Srikakulam, Andhra Pradesh",lower_middle,163819,daily_wage,0.0,semi_pucca,rented,2,0,1,2.4,0,1,1,22,52,High,50000
+6869 4898 6304,Arvind Kumar,23,"Araria, Bihar",poor,39482,daily_wage,0.0,kutcha,owned,0,0,0,0.8,0,1,0,26,61,High,75000
+1710 9543 5941,Rajesh Reddy,51,"Araria, Bihar",lower_middle,135176,farmer,2.0,kutcha,rented,3,0,0,2.3,0,0,1,26,77,Critical,75000
+3067 5505 9984,Lakshmi Das,67,"Darbhanga, Bihar",poor,57936,daily_wage,0.0,kutcha,owned,2,1,0,0.9,0,1,1,28,78,Critical,100000
+8398 4743 7779,Geetha Yadav,43,"Morigaon, Assam",upper_middle,678164,salaried_govt,0.0,pucca,owned,2,1,1,6.9,1,0,0,25,16,Low,0
+8075 2582 7105,Kavitha Das,30,"Srikakulam, Andhra Pradesh",poor,50483,farmer,0.7,kutcha,owned,3,1,0,0.2,0,0,1,22,76,Critical,100000
+6119 6761 2697,Anita Pillai,58,"Alappuzha, Kerala",rich,2182635,salaried_govt,0.0,pucca,owned,2,0,1,21.7,1,0,0,20,6,Low,0
+1430 5381 1474,Usha Iyer,33,"Alappuzha, Kerala",lower_middle,109392,farmer,1.2,kutcha,owned,4,0,0,0.3,0,1,1,20,64,High,50000
+9691 4524 7163,Priya Das,48,"Morigaon, Assam",poor,41888,daily_wage,0.0,kutcha,owned,4,0,0,0.4,0,1,0,25,70,High,75000
+5458 8259 7947,Anita Das,53,"Srikakulam, Andhra Pradesh",poor,77290,daily_wage,0.0,kutcha,owned,4,1,0,0.6,0,0,1,22,82,Critical,100000
+1744 4612 7475,Kamala Pillai,60,"Alappuzha, Kerala",lower_middle,178951,small_business,0.0,semi_pucca,rented,3,0,0,0.3,0,0,0,20,64,High,50000
+3116 7229 9725,Usha Patel,67,"Darbhanga, Bihar",poor,43843,daily_wage,0.0,kutcha,rented,5,0,0,0.3,0,1,0,28,83,Critical,100000
+5743 2887 7636,Selvi Yadav,23,"Araria, Bihar",poor,78630,daily_wage,0.0,kutcha,owned,2,1,1,0.9,0,0,0,26,61,High,75000
+7484 6083 6562,Kamala Das,36,"Morigaon, Assam",poor,75194,daily_wage,0.0,semi_pucca,owned,3,0,0,0.8,0,1,0,25,65,High,75000
+2684 3399 5193,Lakshmi Reddy,34,"Morigaon, Assam",lower_middle,94945,farmer,0.9,kutcha,owned,0,0,0,1.1,0,0,0,25,59,High,50000
+3473 8205 2118,Babu Mehta,52,"Araria, Bihar",lower_middle,162306,farmer,2.0,semi_pucca,rented,2,0,0,1.3,0,0,0,26,62,High,50000
+9307 7299 8581,Kavitha Chaudhary,59,"Srikakulam, Andhra Pradesh",lower_middle,126129,farmer,1.1,semi_pucca,owned,2,0,0,0.2,0,0,1,22,61,High,50000
+9266 3827 1641,Jyothi Das,37,"Alappuzha, Kerala",middle,392288,farmer,1.8,semi_pucca,owned,3,0,0,3.5,0,0,0,20,54,High,35000
+2079 6401 2548,Anita Mehta,57,"Srikakulam, Andhra Pradesh",upper_middle,674070,salaried_govt,0.0,pucca,owned,1,0,1,11.3,1,0,0,22,8,Low,0
+7421 3112 2388,Krishnan Pillai,41,"Srikakulam, Andhra Pradesh",poor,73028,daily_wage,0.0,kutcha,owned,1,0,0,0.2,0,1,0,22,62,High,75000
+7937 9331 6928,Kamala Das,23,"Alappuzha, Kerala",upper_middle,572216,salaried_govt,0.0,pucca,owned,5,0,0,10.5,1,0,0,20,31,Medium,10000
+9843 9626 1618,Rajan Verma,64,"Morigaon, Assam",poor,52395,daily_wage,0.0,kutcha,owned,4,0,0,0.2,0,1,1,25,75,Critical,100000
+7731 6968 4891,Deepak Sharma,50,"Morigaon, Assam",middle,278754,small_business,0.0,pucca,owned,3,1,1,4.5,0,0,0,25,45,Medium,20000
+5616 7256 9239,Deepak Gupta,55,"Alappuzha, Kerala",lower_middle,110671,farmer,1.1,semi_pucca,owned,2,0,0,1.4,0,0,1,20,59,High,50000
+5670 2374 3626,Kamala Devi,39,"Srikakulam, Andhra Pradesh",poor,39070,daily_wage,0.0,kutcha,owned,5,0,0,0.5,0,0,0,22,77,Critical,100000
+9224 7126 4862,Anita Mishra,46,"Srikakulam, Andhra Pradesh",upper_middle,448084,salaried_govt,0.0,pucca,owned,4,0,1,7.1,1,1,1,22,13,Low,0
+8685 8349 1086,Arun Singh,27,"Darbhanga, Bihar",poor,36493,daily_wage,0.0,kutcha,rented,2,0,0,0.8,0,1,1,28,78,Critical,100000
+4906 7878 8489,Meena Sharma,26,"Darbhanga, Bihar",middle,398880,salaried_private,0.0,semi_pucca,owned,5,1,0,4.0,0,0,0,28,66,High,35000
+7825 4068 2402,Krishnan Reddy,55,"Darbhanga, Bihar",upper_middle,681046,salaried_govt,0.0,pucca,owned,4,1,1,5.2,1,1,0,28,24,Low,0
+6850 2106 6649,Dinesh Kumar,37,"Morigaon, Assam",lower_middle,146535,daily_wage,0.0,semi_pucca,owned,1,0,0,1.4,0,0,0,25,65,High,50000
+3209 2033 8498,Arun Patel,24,"Darbhanga, Bihar",poor,65783,daily_wage,0.0,kutcha,rented,5,1,0,0.8,0,0,0,28,93,Critical,100000
+6848 1783 6438,Prakash Pillai,39,"Morigaon, Assam",lower_middle,85492,farmer,1.1,kutcha,owned,0,1,0,2.4,0,0,1,25,69,High,50000
+5369 2353 7955,Radha Verma,27,"Darbhanga, Bihar",poor,78713,daily_wage,0.0,kutcha,owned,4,1,0,0.3,0,1,0,28,78,Critical,100000
+8325 1693 6776,Deepak Jha,61,"Srikakulam, Andhra Pradesh",poor,36723,daily_wage,0.0,semi_pucca,rented,2,1,0,0.3,0,0,1,22,77,Critical,100000
+8179 1570 3068,Lakshmi Chaudhary,26,"Srikakulam, Andhra Pradesh",lower_middle,87518,farmer,1.8,semi_pucca,owned,4,1,0,2.4,0,0,0,22,66,High,50000
+7012 7521 6150,Arvind Verma,63,"Araria, Bihar",lower_middle,154349,farmer,0.8,semi_pucca,owned,2,1,0,1.1,0,0,1,26,70,High,50000
+4515 5678 9047,Dinesh Gupta,34,"Morigaon, Assam",middle,186793,small_business,0.0,semi_pucca,owned,2,0,0,2.9,0,0,0,25,59,High,35000
+9882 5757 5914,Krishnan Das,32,"Darbhanga, Bihar",poor,76751,daily_wage,0.0,kutcha,owned,4,1,0,0.7,0,0,1,28,88,Critical,100000
+2412 2077 6067,Arvind Chaudhary,47,"Araria, Bihar",lower_middle,106342,farmer,1.0,semi_pucca,rented,5,0,0,1.1,0,0,0,26,75,Critical,75000
+3981 3114 8088,Arvind Iyer,54,"Srikakulam, Andhra Pradesh",lower_middle,89666,small_business,0.0,semi_pucca,owned,3,1,0,0.2,0,0,0,22,66,High,50000
+5105 4216 5496,Mahesh Das,30,"Darbhanga, Bihar",poor,40790,daily_wage,0.0,semi_pucca,rented,3,1,0,0.2,0,0,0,28,83,Critical,100000
+2330 1744 5336,Suresh Kumar,63,"Morigaon, Assam",poor,68784,daily_wage,0.0,semi_pucca,owned,2,0,0,0.7,0,0,0,25,65,High,75000
+8430 2195 1981,Selvi Pillai,32,"Araria, Bihar",rich,927028,salaried_govt,0.0,pucca,owned,3,0,1,11.2,1,0,0,26,17,Low,0
+3142 7070 9437,Krishnan Mishra,57,"Srikakulam, Andhra Pradesh",upper_middle,643501,salaried_govt,0.0,pucca,owned,4,1,0,5.8,1,0,0,22,38,Medium,10000
+3616 6364 6123,Govind Reddy,34,"Darbhanga, Bihar",middle,302282,salaried_private,0.0,semi_pucca,owned,3,1,0,1.7,1,0,0,28,58,High,35000
+1828 5609 9108,Krishnan Sharma,60,"Araria, Bihar",lower_middle,120441,small_business,0.0,semi_pucca,owned,3,0,1,1.2,0,0,1,26,55,High,50000
+4189 6939 5728,Selvi Sharma,26,"Srikakulam, Andhra Pradesh",poor,37044,daily_wage,0.0,semi_pucca,rented,4,1,0,0.7,0,0,1,22,82,Critical,100000
+4261 9341 7576,Radha Singh,54,"Srikakulam, Andhra Pradesh",poor,70844,farmer,0.1,semi_pucca,rented,0,1,0,0.4,0,0,1,22,66,High,75000
+7438 5902 6511,Babu Patel,54,"Darbhanga, Bihar",lower_middle,123652,daily_wage,0.0,kutcha,rented,2,0,0,0.4,0,0,1,28,83,Critical,75000
+8775 5350 4728,Saranya Kumar,68,"Alappuzha, Kerala",upper_middle,695134,salaried_govt,0.0,pucca,owned,6,1,0,6.3,1,0,0,20,36,Medium,10000
+2800 4125 1310,Suresh Menon,50,"Darbhanga, Bihar",upper_middle,674848,salaried_govt,0.0,semi_pucca,owned,3,0,0,10.6,1,1,0,28,33,Medium,10000
+4397 6325 8837,Arvind Verma,55,"Morigaon, Assam",poor,43362,farmer,0.8,kutcha,owned,5,1,0,0.9,0,0,1,25,84,Critical,100000
+5038 5571 5890,Arun Nair,36,"Srikakulam, Andhra Pradesh",lower_middle,149878,farmer,1.2,kutcha,owned,6,1,0,2.2,0,0,0,22,76,Critical,75000
+9899 7220 7464,Mahesh Devi,44,"Morigaon, Assam",rich,1669386,business_owner,8.9,pucca,owned,5,0,1,16.1,0,0,0,25,30,Medium,0
+5450 3249 2789,Siva Rao,61,"Araria, Bihar",poor,76801,daily_wage,0.0,kutcha,rented,3,1,0,0.7,0,0,1,26,91,Critical,100000
+3252 1084 3587,Arun Devi,48,"Alappuzha, Kerala",middle,193307,small_business,0.0,semi_pucca,owned,2,0,0,4.2,0,1,0,20,44,Medium,20000
+7846 3880 1595,Suresh Patel,47,"Srikakulam, Andhra Pradesh",poor,48824,farmer,0.6,semi_pucca,rented,3,1,0,0.1,0,0,0,22,71,High,75000
+9901 9590 9092,Mahesh Gupta,30,"Srikakulam, Andhra Pradesh",upper_middle,551764,salaried_govt,0.0,pucca,owned,4,0,1,8.1,1,1,0,22,8,Low,0
+4164 3875 7643,Jyothi Pillai,49,"Alappuzha, Kerala",lower_middle,94764,small_business,0.0,semi_pucca,rented,1,1,0,1.9,0,0,1,20,69,High,50000
+5947 1187 5285,Pushpa Mehta,63,"Alappuzha, Kerala",lower_middle,92502,farmer,0.8,kutcha,owned,6,1,0,0.7,0,1,1,20,74,High,50000
+5833 7021 4618,Saranya Devi,36,"Morigaon, Assam",poor,60500,daily_wage,0.0,kutcha,owned,3,1,0,0.5,0,0,0,25,80,Critical,100000
+5054 2341 9609,Siva Nair,50,"Araria, Bihar",upper_middle,638539,salaried_govt,0.0,semi_pucca,owned,4,0,0,6.7,1,0,0,26,36,Medium,10000
+2904 4365 9008,Kamala Gupta,27,"Alappuzha, Kerala",middle,327893,salaried_private,0.0,semi_pucca,owned,4,1,0,5.5,0,0,0,20,53,High,35000
+4570 2196 1742,Dinesh Kumar,49,"Alappuzha, Kerala",poor,63636,farmer,0.6,kutcha,owned,2,1,0,0.7,0,1,1,20,64,High,75000
+7266 8348 7184,Govind Jha,46,"Morigaon, Assam",middle,195795,farmer,1.3,pucca,owned,4,0,0,1.2,0,0,0,25,60,High,35000
+5888 8585 9920,Ramesh Kumar,49,"Darbhanga, Bihar",upper_middle,582331,salaried_govt,0.0,pucca,owned,5,1,0,6.5,1,1,0,28,39,Medium,10000
+1256 4943 4376,Govind Chaudhary,26,"Alappuzha, Kerala",lower_middle,125371,small_business,0.0,kutcha,rented,3,1,0,2.6,0,0,1,20,79,Critical,75000
+9255 5739 4836,Anita Singh,68,"Darbhanga, Bihar",middle,336705,farmer,4.5,semi_pucca,owned,4,0,1,1.2,0,0,0,28,49,Medium,20000
+5508 1998 3869,Govind Pillai,62,"Alappuzha, Kerala",middle,336740,salaried_private,0.0,pucca,owned,4,0,0,2.2,0,0,0,20,49,Medium,20000
+7167 4012 9813,Lakshmi Pillai,52,"Srikakulam, Andhra Pradesh",upper_middle,580572,salaried_govt,0.0,semi_pucca,owned,2,0,0,10.1,1,1,0,22,22,Low,0
+4978 5177 4331,Arvind Mishra,43,"Araria, Bihar",poor,39460,daily_wage,0.0,kutcha,owned,1,0,0,0.6,0,0,0,26,71,High,75000
+4555 8854 4422,Mohan Nair,43,"Darbhanga, Bihar",lower_middle,174972,small_business,0.0,semi_pucca,rented,0,0,1,1.1,0,0,1,28,52,High,50000
+4921 6269 5637,Geetha Mishra,46,"Morigaon, Assam",lower_middle,177186,daily_wage,0.0,kutcha,owned,3,1,0,1.4,0,1,0,25,75,Critical,75000
+7073 6126 7781,Babu Nair,24,"Srikakulam, Andhra Pradesh",poor,63607,daily_wage,0.0,kutcha,rented,3,0,0,0.8,0,0,0,22,77,Critical,100000
+5026 9180 6530,Santosh Mishra,38,"Alappuzha, Kerala",poor,47090,daily_wage,0.0,semi_pucca,rented,0,1,0,0.7,0,1,1,20,65,High,75000
+1554 2217 1794,Anita Verma,22,"Srikakulam, Andhra Pradesh",middle,224101,salaried_private,0.0,semi_pucca,owned,3,0,0,1.7,0,1,0,22,50,High,35000
+1257 1108 9719,Arun Thakur,57,"Srikakulam, Andhra Pradesh",poor,76345,daily_wage,0.0,semi_pucca,rented,3,1,0,0.5,0,1,0,22,72,High,75000
+2578 9591 3439,Sunita Devi,37,"Srikakulam, Andhra Pradesh",middle,318783,farmer,3.1,semi_pucca,owned,2,0,1,3.5,0,0,0,22,33,Medium,20000
+2531 7640 7213,Kavitha Sharma,46,"Araria, Bihar",lower_middle,132022,farmer,2.4,semi_pucca,rented,1,1,0,0.7,0,0,1,26,72,High,50000
+1697 4764 4463,Rajan Verma,66,"Alappuzha, Kerala",poor,76061,farmer,0.5,kutcha,owned,3,1,0,0.8,0,0,0,20,69,High,75000
+4394 3362 7525,Babu Kumar,26,"Alappuzha, Kerala",lower_middle,89744,small_business,0.0,semi_pucca,rented,4,0,0,1.6,0,0,1,20,69,High,50000
+9204 6666 1879,Arvind Das,28,"Morigaon, Assam",middle,243038,small_business,0.0,pucca,owned,6,0,0,4.4,0,0,0,25,60,High,35000
+6829 7150 8075,Nalini Reddy,33,"Srikakulam, Andhra Pradesh",lower_middle,160460,farmer,1.3,kutcha,rented,2,0,0,0.1,0,1,0,22,61,High,50000
+6188 6909 2745,Lakshmi Mishra,27,"Alappuzha, Kerala",middle,382419,salaried_private,0.0,semi_pucca,owned,2,0,0,4.6,1,1,0,20,30,Medium,20000
+2524 6315 7311,Kavitha Jha,22,"Darbhanga, Bihar",lower_middle,115358,farmer,0.7,semi_pucca,owned,1,1,0,1.7,0,0,1,28,72,High,50000
+5933 5397 9079,Arvind Rao,31,"Morigaon, Assam",poor,77503,farmer,0.9,kutcha,owned,6,0,0,0.6,0,1,1,25,74,High,75000
+4203 8501 2752,Nalini Chaudhary,30,"Darbhanga, Bihar",middle,252341,small_business,0.0,semi_pucca,owned,4,0,0,1.4,0,1,0,28,62,High,35000
+6253 4290 8848,Arvind Pillai,42,"Morigaon, Assam",lower_middle,161289,daily_wage,0.0,semi_pucca,rented,2,1,0,1.3,0,0,0,25,75,Critical,75000
+4273 9939 3947,Radha Devi,65,"Araria, Bihar",poor,75544,farmer,1.0,kutcha,rented,2,1,0,0.3,0,1,0,26,70,High,75000
+3280 5961 4965,Govind Thakur,38,"Alappuzha, Kerala",lower_middle,172847,daily_wage,0.0,semi_pucca,owned,4,1,0,2.5,0,1,0,20,65,High,50000
+6890 9796 2392,Siva Sharma,28,"Araria, Bihar",lower_middle,158372,small_business,0.0,semi_pucca,rented,2,0,0,1.5,0,0,0,26,65,High,50000
+2735 1172 2615,Jyothi Yadav,38,"Araria, Bihar",upper_middle,739214,small_business,0.0,semi_pucca,owned,4,0,1,8.8,0,0,0,26,40,Medium,10000
+2901 3321 6707,Govind Das,41,"Araria, Bihar",lower_middle,140694,farmer,1.7,semi_pucca,owned,3,0,0,1.0,0,1,1,26,65,High,50000
+6620 2791 3692,Meena Kumar,37,"Morigaon, Assam",lower_middle,125652,small_business,0.0,kutcha,owned,2,0,0,2.1,0,1,1,25,64,High,50000
+1478 4232 8365,Usha Mishra,59,"Alappuzha, Kerala",poor,66690,daily_wage,0.0,semi_pucca,rented,4,1,0,0.8,0,0,1,20,80,Critical,100000
+4228 8496 2867,Radha Mehta,38,"Srikakulam, Andhra Pradesh",poor,43486,farmer,0.7,kutcha,owned,1,1,0,0.6,0,0,0,22,66,High,75000
+2388 3194 6131,Saranya Chaudhary,29,"Srikakulam, Andhra Pradesh",poor,55725,daily_wage,0.0,semi_pucca,owned,0,1,0,0.8,0,0,0,22,62,High,75000
+3838 3733 9022,Nalini Iyer,40,"Araria, Bihar",middle,227984,salaried_private,0.0,semi_pucca,owned,4,1,1,2.9,0,0,0,26,49,Medium,20000
+7703 9056 7809,Rajesh Thakur,67,"Araria, Bihar",lower_middle,161187,farmer,1.2,semi_pucca,owned,1,1,1,0.4,0,0,0,26,50,High,50000
+9115 9369 2854,Parvathi Menon,58,"Srikakulam, Andhra Pradesh",lower_middle,84044,small_business,0.0,kutcha,rented,3,0,0,0.1,0,1,1,22,71,High,50000
+5055 5877 1528,Usha Devi,50,"Darbhanga, Bihar",poor,54042,daily_wage,0.0,semi_pucca,owned,3,1,0,0.8,0,0,1,28,83,Critical,100000
+3281 4385 4390,Usha Patel,25,"Morigaon, Assam",poor,37693,daily_wage,0.0,kutcha,owned,3,0,0,0.8,0,0,1,25,80,Critical,100000
+7743 1971 5543,Rajan Singh,63,"Alappuzha, Kerala",lower_middle,150617,farmer,2.5,semi_pucca,rented,0,1,0,1.7,0,0,0,20,56,High,50000
+7146 8405 2237,Pushpa Yadav,62,"Araria, Bihar",poor,51108,daily_wage,0.0,kutcha,rented,3,0,0,0.7,0,0,0,26,81,Critical,100000
+6869 2037 9756,Kavitha Gupta,47,"Darbhanga, Bihar",lower_middle,171056,small_business,0.0,semi_pucca,owned,5,0,0,2.9,0,1,1,28,72,High,50000
+1752 2631 8529,Jyothi Sharma,23,"Araria, Bihar",lower_middle,122318,small_business,0.0,kutcha,owned,2,0,0,1.7,0,0,0,26,65,High,50000
+6905 5102 2350,Pushpa Das,45,"Darbhanga, Bihar",poor,58036,daily_wage,0.0,kutcha,owned,4,1,0,0.1,0,0,1,28,88,Critical,100000
+3174 4705 9510,Arun Das,65,"Araria, Bihar",poor,77578,daily_wage,0.0,kutcha,owned,3,1,0,0.7,0,0,1,26,86,Critical,100000
+2690 6133 7022,Kavitha Devi,41,"Srikakulam, Andhra Pradesh",upper_middle,764693,salaried_private,0.0,semi_pucca,owned,3,1,1,10.7,0,0,0,22,35,Medium,10000
+8248 4559 2420,Lakshmi Yadav,28,"Araria, Bihar",poor,74376,farmer,0.5,kutcha,owned,4,1,1,0.7,0,0,0,26,60,High,75000
+5942 4366 9482,Mahesh Kumar,60,"Araria, Bihar",lower_middle,126076,daily_wage,0.0,semi_pucca,owned,3,0,0,0.4,0,1,1,26,71,High,50000
+9185 2163 9655,Meena Reddy,22,"Alappuzha, Kerala",upper_middle,605390,salaried_govt,0.0,pucca,owned,3,1,1,11.1,1,0,0,20,16,Low,0
+2106 1225 5295,Mohan Kumar,35,"Morigaon, Assam",rich,2422517,business_owner,9.8,pucca,owned,5,0,1,18.3,0,0,0,25,30,Medium,0
+3501 5546 2369,Siva Chaudhary,41,"Darbhanga, Bihar",poor,71194,daily_wage,0.0,kutcha,owned,1,0,0,0.4,0,0,0,28,73,High,75000
+1948 5005 2412,Usha Reddy,49,"Darbhanga, Bihar",poor,55606,daily_wage,0.0,kutcha,owned,0,1,0,0.6,0,0,1,28,78,Critical,100000
+9568 9474 5247,Nalini Jha,32,"Darbhanga, Bihar",poor,50269,farmer,0.7,semi_pucca,owned,4,1,0,0.0,0,1,1,28,72,High,75000
+5308 2262 9128,Kamala Das,51,"Morigaon, Assam",poor,47613,daily_wage,0.0,semi_pucca,owned,2,0,0,0.9,0,1,1,25,65,High,75000
+9336 1042 1721,Meena Reddy,22,"Alappuzha, Kerala",middle,310969,salaried_private,0.0,semi_pucca,owned,0,0,1,1.8,0,0,0,20,28,Medium,20000
+6272 5067 7819,Govind Reddy,68,"Araria, Bihar",middle,275414,farmer,1.6,semi_pucca,owned,2,1,0,5.3,0,0,0,26,60,High,35000
+8620 5625 6090,Selvi Das,42,"Morigaon, Assam",poor,37825,daily_wage,0.0,kutcha,owned,4,1,0,0.2,0,0,0,25,80,Critical,100000
+9954 5016 3466,Nalini Nair,22,"Darbhanga, Bihar",lower_middle,118219,small_business,0.0,kutcha,owned,5,0,0,1.9,0,0,0,28,77,Critical,75000
+4361 9680 4902,Saranya Devi,48,"Srikakulam, Andhra Pradesh",middle,321962,farmer,4.4,semi_pucca,owned,4,1,0,5.8,0,1,0,22,53,High,35000
+2565 9280 3187,Parvathi Das,62,"Srikakulam, Andhra Pradesh",poor,36096,daily_wage,0.0,kutcha,owned,2,1,0,0.8,0,0,0,22,72,High,75000
+6211 8417 5455,Selvi Mehta,36,"Srikakulam, Andhra Pradesh",middle,328850,farmer,3.6,pucca,owned,4,1,1,2.5,0,0,0,22,44,Medium,20000
+6051 8591 5341,Geetha Gupta,29,"Darbhanga, Bihar",rich,1257065,business_owner,5.0,pucca,owned,3,1,1,13.3,0,0,0,28,33,Medium,0
+7492 9412 1802,Rekha Jha,65,"Darbhanga, Bihar",poor,76183,daily_wage,0.0,semi_pucca,rented,4,1,0,0.8,0,1,1,28,83,Critical,100000
+1195 2010 4641,Arvind Devi,30,"Morigaon, Assam",poor,56502,daily_wage,0.0,kutcha,rented,5,0,0,0.6,0,1,1,25,85,Critical,100000
+8265 3110 2506,Mohan Nair,43,"Araria, Bihar",middle,359905,salaried_private,0.0,semi_pucca,owned,3,0,0,3.9,0,0,1,26,59,High,35000
+4517 4066 5505,Sunita Jha,39,"Darbhanga, Bihar",middle,193274,farmer,3.3,semi_pucca,owned,4,1,0,3.0,0,1,0,28,59,High,35000
+3248 7868 4267,Pushpa Mishra,63,"Srikakulam, Andhra Pradesh",poor,70434,daily_wage,0.0,kutcha,owned,5,1,0,0.4,0,0,1,22,87,Critical,100000
+7363 5430 3946,Rajesh Mehta,23,"Alappuzha, Kerala",lower_middle,151258,farmer,2.5,semi_pucca,owned,4,0,0,1.1,0,0,0,20,56,High,50000
+5060 4951 5366,Vijay Devi,56,"Morigaon, Assam",poor,48411,daily_wage,0.0,kutcha,owned,5,1,0,0.5,0,0,0,25,85,Critical,100000
+1462 6761 3328,Krishnan Menon,58,"Darbhanga, Bihar",poor,55455,daily_wage,0.0,semi_pucca,owned,0,1,0,0.8,0,1,0,28,63,High,75000
+6435 4300 3137,Arun Kumar,43,"Araria, Bihar",upper_middle,562032,salaried_govt,0.0,pucca,owned,1,1,1,3.5,1,0,1,26,27,Medium,10000
+7481 2655 6514,Mohan Jha,41,"Araria, Bihar",poor,68444,daily_wage,0.0,kutcha,rented,6,0,0,0.1,0,0,1,26,91,Critical,100000
+3872 7199 6026,Krishnan Reddy,68,"Morigaon, Assam",upper_middle,783963,salaried_govt,0.0,semi_pucca,owned,3,0,0,11.6,1,0,0,25,35,Medium,10000
+2705 9129 3304,Santosh Menon,43,"Morigaon, Assam",lower_middle,172013,farmer,1.3,kutcha,owned,3,0,0,2.9,0,1,0,25,64,High,50000
+1186 5345 4435,Jyothi Gupta,37,"Darbhanga, Bihar",poor,41002,daily_wage,0.0,kutcha,owned,2,1,0,0.8,0,0,0,28,78,Critical,100000
+9946 7149 2661,Murugan Jha,52,"Darbhanga, Bihar",lower_middle,174426,farmer,1.3,semi_pucca,owned,4,1,0,2.9,0,0,0,28,72,High,50000
+3787 7151 3636,Mohan Mehta,68,"Alappuzha, Kerala",middle,298302,small_business,0.0,semi_pucca,owned,4,1,0,2.5,0,1,0,20,59,High,35000
+1877 2659 6424,Usha Patel,35,"Darbhanga, Bihar",poor,70215,daily_wage,0.0,kutcha,owned,3,0,0,0.4,0,0,0,28,78,Critical,100000
+1893 6911 1062,Nalini Singh,49,"Araria, Bihar",poor,77839,farmer,0.7,semi_pucca,owned,3,1,0,0.1,0,0,0,26,70,High,75000
+8715 9013 5341,Saranya Mishra,27,"Darbhanga, Bihar",lower_middle,142957,farmer,0.6,semi_pucca,owned,5,1,0,0.9,0,1,0,28,72,High,50000
+2584 2404 6632,Anita Singh,56,"Alappuzha, Kerala",poor,54998,farmer,0.4,kutcha,owned,1,1,0,0.5,0,1,1,20,64,High,75000
+5896 2293 7468,Rekha Thakur,67,"Srikakulam, Andhra Pradesh",poor,55369,daily_wage,0.0,semi_pucca,rented,4,0,0,0.5,0,0,0,22,72,High,75000
+3422 5225 6238,Usha Nair,68,"Darbhanga, Bihar",lower_middle,138856,farmer,2.5,kutcha,owned,1,1,0,2.4,0,1,1,28,69,High,50000
+2843 7790 3451,Kamala Yadav,31,"Darbhanga, Bihar",poor,66179,daily_wage,0.0,kutcha,owned,4,1,0,0.5,0,0,0,28,83,Critical,100000
+8750 1613 3821,Nalini Menon,39,"Alappuzha, Kerala",poor,36618,daily_wage,0.0,kutcha,owned,4,0,0,0.9,0,0,1,20,75,Critical,100000
+5400 7102 1331,Anita Thakur,43,"Srikakulam, Andhra Pradesh",middle,339555,small_business,0.0,pucca,owned,1,0,0,3.0,0,0,0,22,47,Medium,20000
+7828 2462 4079,Babu Rao,50,"Morigaon, Assam",poor,75625,daily_wage,0.0,kutcha,owned,6,1,0,0.2,0,1,0,25,80,Critical,100000
+1474 3846 4158,Arvind Verma,34,"Araria, Bihar",poor,63849,farmer,0.8,semi_pucca,owned,3,0,0,0.2,0,1,0,26,60,High,75000
+1500 4963 7102,Selvi Devi,53,"Darbhanga, Bihar",middle,299655,small_business,0.0,semi_pucca,owned,5,1,0,2.0,0,0,0,28,77,Critical,50000
+1449 7333 1813,Kavitha Pillai,32,"Alappuzha, Kerala",rich,2790542,salaried_govt,0.0,pucca,owned,4,0,1,8.9,1,0,0,20,11,Low,0
+3167 3837 1138,Ramesh Thakur,36,"Alappuzha, Kerala",poor,74413,daily_wage,0.0,kutcha,owned,1,1,0,0.5,0,0,0,20,70,High,75000
+7506 2676 1120,Kamala Chaudhary,54,"Morigaon, Assam",middle,365956,salaried_private,0.0,pucca,owned,3,0,0,2.9,0,1,0,25,49,Medium,20000
+3456 9475 4937,Saranya Nair,25,"Morigaon, Assam",lower_middle,143142,farmer,2.5,semi_pucca,owned,5,1,0,2.6,0,1,0,25,66,High,50000
+4111 6622 4643,Suresh Menon,65,"Alappuzha, Kerala",poor,39170,farmer,0.7,semi_pucca,rented,3,0,0,0.3,0,0,1,20,69,High,75000
+3999 6499 2463,Dinesh Iyer,36,"Alappuzha, Kerala",poor,49673,farmer,0.8,semi_pucca,owned,3,0,0,0.2,0,1,1,20,59,High,75000
+2166 8736 4187,Arun Sharma,54,"Morigaon, Assam",poor,57556,daily_wage,0.0,semi_pucca,owned,1,0,0,0.3,0,1,0,25,60,High,75000
+6183 3954 2324,Parvathi Singh,53,"Darbhanga, Bihar",poor,33543,farmer,0.2,semi_pucca,rented,4,0,0,0.3,0,0,0,28,72,High,75000
+2442 3120 8105,Vijay Thakur,62,"Morigaon, Assam",middle,346330,small_business,0.0,semi_pucca,owned,3,1,0,2.0,0,0,0,25,69,High,35000
+4122 1293 1067,Babu Verma,62,"Srikakulam, Andhra Pradesh",rich,2802361,salaried_govt,0.0,pucca,owned,3,1,1,9.6,1,0,1,22,23,Low,0
+8469 9524 9587,Saranya Pillai,43,"Araria, Bihar",poor,50453,daily_wage,0.0,semi_pucca,owned,5,1,0,0.6,0,1,0,26,76,Critical,100000
+3149 4460 1359,Santosh Reddy,59,"Srikakulam, Andhra Pradesh",poor,62124,daily_wage,0.0,kutcha,owned,6,1,0,0.9,0,0,1,22,87,Critical,100000
+1323 1790 2897,Anita Devi,48,"Alappuzha, Kerala",poor,72633,daily_wage,0.0,kutcha,owned,6,0,0,0.6,0,0,0,20,75,Critical,100000
+3247 7862 2718,Kamala Rao,54,"Srikakulam, Andhra Pradesh",poor,61090,farmer,0.2,kutcha,owned,5,0,0,0.0,0,0,1,22,76,Critical,100000
+5839 3627 1645,Krishnan Yadav,57,"Alappuzha, Kerala",lower_middle,93928,daily_wage,0.0,semi_pucca,rented,6,0,0,2.3,0,0,0,20,75,Critical,75000
+2475 9383 2229,Nalini Singh,68,"Srikakulam, Andhra Pradesh",poor,51666,daily_wage,0.0,semi_pucca,owned,3,1,1,0.1,0,1,0,22,52,High,75000
+6123 7979 2898,Mahesh Jha,28,"Darbhanga, Bihar",rich,1769556,business_owner,14.7,pucca,owned,3,0,1,6.9,0,0,0,28,28,Medium,0
+3996 2865 7566,Radha Mehta,47,"Darbhanga, Bihar",lower_middle,102349,daily_wage,0.0,kutcha,owned,4,1,0,2.9,0,1,0,28,78,Critical,75000
+7816 8908 8178,Vijay Devi,33,"Srikakulam, Andhra Pradesh",lower_middle,142684,farmer,1.8,semi_pucca,owned,3,0,0,0.3,0,0,1,22,66,High,50000
+1753 2037 5286,Govind Gupta,63,"Alappuzha, Kerala",lower_middle,169714,small_business,0.0,semi_pucca,owned,5,0,0,2.7,0,0,0,20,64,High,50000
+9570 2560 8091,Jyothi Verma,64,"Morigaon, Assam",poor,64394,daily_wage,0.0,semi_pucca,owned,2,0,0,0.6,0,0,0,25,65,High,75000
+3571 9283 8688,Anita Kumar,53,"Araria, Bihar",upper_middle,747975,salaried_govt,0.0,pucca,owned,5,0,1,10.6,1,0,0,26,22,Low,0
+8521 8277 8341,Rekha Das,27,"Araria, Bihar",lower_middle,123371,daily_wage,0.0,semi_pucca,rented,3,0,1,0.7,0,0,1,26,66,High,50000
+4389 8474 6584,Saranya Verma,45,"Srikakulam, Andhra Pradesh",poor,62595,farmer,0.0,kutcha,rented,2,0,0,0.0,0,0,0,22,69,High,75000
+6818 5783 9973,Ramesh Mehta,55,"Darbhanga, Bihar",lower_middle,161232,farmer,1.9,semi_pucca,rented,3,0,0,1.4,0,1,0,28,67,High,50000
+7437 4532 8488,Prakash Devi,34,"Morigaon, Assam",lower_middle,144542,daily_wage,0.0,kutcha,owned,1,1,0,2.2,0,1,0,25,70,High,50000
+9172 1071 9689,Rajesh Singh,25,"Morigaon, Assam",rich,995036,salaried_govt,0.0,pucca,owned,6,0,0,16.6,1,0,0,25,36,Medium,0
+6273 9259 7302,Rajan Mishra,48,"Alappuzha, Kerala",middle,306597,salaried_private,0.0,pucca,owned,3,0,0,5.6,0,1,0,20,39,Medium,20000
+9975 6143 4560,Rajesh Pillai,34,"Alappuzha, Kerala",poor,52469,daily_wage,0.0,kutcha,owned,4,0,0,0.1,0,0,0,20,70,High,75000
+6771 8870 7839,Babu Devi,65,"Araria, Bihar",middle,270516,salaried_private,0.0,pucca,owned,2,0,1,4.6,0,1,0,26,25,Medium,20000
+5105 3399 2016,Vijay Pillai,66,"Alappuzha, Kerala",upper_middle,406695,small_business,0.0,pucca,owned,4,0,1,4.3,0,0,0,20,35,Medium,10000
+7371 4892 9370,Santosh Iyer,66,"Morigaon, Assam",upper_middle,416937,salaried_govt,0.0,pucca,owned,4,1,1,8.5,1,0,0,25,21,Low,0
+7025 9955 4218,Deepak Reddy,68,"Morigaon, Assam",lower_middle,169803,daily_wage,0.0,semi_pucca,owned,3,1,0,0.0,0,1,0,25,70,High,50000
+5572 5329 3131,Suresh Yadav,32,"Araria, Bihar",upper_middle,493022,small_business,0.0,pucca,owned,5,0,1,11.7,0,0,0,26,41,Medium,10000
+6866 2194 6207,Saranya Thakur,55,"Alappuzha, Kerala",poor,76510,daily_wage,0.0,kutcha,rented,0,0,1,0.9,0,0,0,20,50,High,75000
+6911 5809 4579,Jyothi Mehta,61,"Araria, Bihar",poor,63104,daily_wage,0.0,semi_pucca,rented,4,1,0,0.4,0,1,0,26,76,Critical,100000
+6258 7248 2857,Rekha Sharma,46,"Alappuzha, Kerala",rich,836925,salaried_govt,0.0,pucca,owned,2,1,1,10.3,1,0,0,20,11,Low,0
+3742 9814 9736,Kavitha Devi,22,"Morigaon, Assam",lower_middle,129146,farmer,1.5,kutcha,owned,3,0,0,0.9,0,0,1,25,74,High,50000
+3519 1389 8523,Usha Das,67,"Darbhanga, Bihar",rich,1694121,business_owner,8.1,pucca,owned,5,0,1,15.7,0,0,0,28,33,Medium,0
+7626 8094 6183,Murugan Gupta,23,"Morigaon, Assam",middle,199201,farmer,4.2,semi_pucca,owned,3,1,0,3.9,0,1,0,25,56,High,35000
+5748 5937 2417,Rajesh Devi,40,"Srikakulam, Andhra Pradesh",lower_middle,174409,daily_wage,0.0,semi_pucca,rented,2,0,0,1.8,0,0,1,22,72,High,50000
+7113 1182 3316,Lakshmi Pillai,29,"Srikakulam, Andhra Pradesh",poor,32019,farmer,0.5,kutcha,owned,5,1,0,0.4,0,0,0,22,76,Critical,100000
+9397 3333 3637,Geetha Yadav,33,"Darbhanga, Bihar",middle,336409,farmer,3.2,pucca,owned,6,1,1,2.1,0,0,0,28,55,High,35000
+2198 5762 2103,Parvathi Iyer,38,"Araria, Bihar",rich,1280761,business_owner,12.6,pucca,owned,3,1,0,21.3,0,0,0,26,46,Medium,0
+6206 8960 8383,Mohan Nair,43,"Darbhanga, Bihar",middle,332199,small_business,0.0,pucca,owned,5,0,0,1.6,0,0,0,28,68,High,35000
+5533 6889 3200,Santosh Yadav,65,"Alappuzha, Kerala",middle,333136,salaried_private,0.0,pucca,owned,2,1,0,5.0,0,1,0,20,39,Medium,20000
+4218 5312 2252,Arvind Iyer,68,"Morigaon, Assam",lower_middle,120038,small_business,0.0,semi_pucca,owned,1,0,1,1.9,0,1,1,25,44,Medium,30000
+8734 3435 6993,Siva Iyer,47,"Darbhanga, Bihar",upper_middle,731154,salaried_private,0.0,pucca,owned,3,1,0,6.6,0,0,0,28,52,High,15000
+3299 8310 3608,Vijay Verma,33,"Araria, Bihar",poor,63450,daily_wage,0.0,kutcha,owned,4,1,0,0.0,0,1,0,26,76,Critical,100000
+7358 8695 8448,Kamala Jha,24,"Alappuzha, Kerala",lower_middle,127028,farmer,2.0,semi_pucca,owned,3,1,0,0.8,0,1,0,20,56,High,50000
+6985 2275 9465,Murugan Mishra,38,"Darbhanga, Bihar",poor,64168,daily_wage,0.0,kutcha,owned,4,1,0,0.7,0,0,0,28,83,Critical,100000
+5600 4465 3461,Mohan Verma,33,"Srikakulam, Andhra Pradesh",lower_middle,125224,farmer,1.5,semi_pucca,owned,4,0,0,1.5,0,1,1,22,61,High,50000
+1367 4992 1706,Vijay Yadav,30,"Araria, Bihar",lower_middle,95509,farmer,1.3,semi_pucca,owned,5,0,0,0.3,0,0,0,26,70,High,50000
+2404 4548 8359,Priya Pillai,60,"Alappuzha, Kerala",lower_middle,85136,farmer,0.8,kutcha,owned,3,0,0,2.8,0,0,1,20,69,High,50000
+3747 6614 8429,Rajesh Rao,60,"Srikakulam, Andhra Pradesh",upper_middle,515009,salaried_govt,0.0,semi_pucca,owned,3,0,0,10.2,1,0,0,22,32,Medium,10000
+2577 3906 8796,Lakshmi Chaudhary,61,"Alappuzha, Kerala",poor,38664,daily_wage,0.0,kutcha,owned,0,1,0,0.9,0,0,1,20,70,High,75000
+7892 7068 1711,Usha Verma,66,"Alappuzha, Kerala",middle,311944,farmer,1.4,pucca,owned,3,0,0,5.5,0,0,1,20,55,High,35000
+3193 5170 8817,Rajan Yadav,36,"Alappuzha, Kerala",middle,390318,salaried_private,0.0,semi_pucca,owned,2,0,0,2.8,0,0,0,20,48,Medium,20000
+7144 4365 6175,Kamala Kumar,48,"Darbhanga, Bihar",poor,56781,daily_wage,0.0,semi_pucca,owned,0,1,1,0.7,0,1,0,28,48,Medium,40000
+7770 8904 3928,Selvi Nair,45,"Morigaon, Assam",poor,68362,daily_wage,0.0,kutcha,owned,3,1,0,0.4,0,0,1,25,85,Critical,100000
+2642 4513 9328,Deepak Patel,47,"Alappuzha, Kerala",poor,67856,farmer,0.7,kutcha,owned,3,1,0,0.9,0,0,0,20,69,High,75000
+4633 7075 2311,Mohan Rao,60,"Morigaon, Assam",upper_middle,604002,salaried_private,0.0,semi_pucca,owned,2,0,1,3.8,1,0,0,25,25,Medium,10000
+1175 4304 9489,Nalini Gupta,40,"Darbhanga, Bihar",lower_middle,148289,small_business,0.0,semi_pucca,owned,4,1,0,0.2,0,0,1,28,77,Critical,75000
+5520 7544 6785,Vijay Das,64,"Araria, Bihar",poor,75773,daily_wage,0.0,semi_pucca,owned,3,1,0,0.0,0,1,1,26,76,Critical,100000
+5530 4707 4187,Krishnan Jha,51,"Srikakulam, Andhra Pradesh",upper_middle,505020,salaried_govt,0.0,pucca,owned,5,0,0,3.6,1,1,0,22,33,Medium,10000
+5098 8254 7178,Dinesh Iyer,58,"Srikakulam, Andhra Pradesh",poor,63176,daily_wage,0.0,kutcha,rented,5,1,0,0.3,0,0,0,22,87,Critical,100000
+6172 7757 6785,Santosh Reddy,55,"Srikakulam, Andhra Pradesh",lower_middle,140142,farmer,2.3,semi_pucca,owned,2,0,0,1.4,0,1,1,22,53,High,50000
+6142 6792 4580,Sunita Thakur,58,"Alappuzha, Kerala",lower_middle,112539,daily_wage,0.0,semi_pucca,owned,6,1,0,2.2,0,1,0,20,70,High,50000
+6833 3555 2747,Rekha Chaudhary,29,"Morigaon, Assam",lower_middle,104925,farmer,0.9,semi_pucca,owned,2,0,0,2.6,0,1,1,25,59,High,50000
+3996 9374 5591,Pushpa Thakur,47,"Darbhanga, Bihar",lower_middle,150972,small_business,0.0,semi_pucca,rented,2,0,0,1.1,0,1,0,28,62,High,50000
+2972 9490 8537,Sunita Gupta,42,"Araria, Bihar",poor,57733,daily_wage,0.0,kutcha,owned,1,1,0,0.5,0,0,0,26,76,Critical,100000
+6621 6995 4013,Pushpa Thakur,53,"Darbhanga, Bihar",poor,68076,daily_wage,0.0,semi_pucca,rented,2,1,0,0.9,0,1,1,28,78,Critical,100000
+5422 4863 8081,Santosh Devi,46,"Srikakulam, Andhra Pradesh",poor,54399,daily_wage,0.0,kutcha,owned,4,1,0,0.5,0,0,0,22,77,Critical,100000
+5915 5111 1781,Babu Thakur,47,"Araria, Bihar",poor,30638,daily_wage,0.0,semi_pucca,rented,2,1,0,1.0,0,0,0,26,76,Critical,100000
+5222 6638 1324,Radha Jha,48,"Darbhanga, Bihar",upper_middle,512966,salaried_govt,0.0,semi_pucca,owned,3,0,1,8.7,1,0,0,28,23,Low,0
+8322 2284 7243,Rajesh Thakur,61,"Darbhanga, Bihar",lower_middle,106077,farmer,1.8,semi_pucca,owned,2,0,0,2.9,0,1,1,28,62,High,50000
+6629 4739 6136,Kavitha Patel,42,"Morigaon, Assam",poor,40982,farmer,0.9,semi_pucca,owned,0,1,0,0.6,0,0,0,25,59,High,75000
+3741 4012 1378,Deepak Yadav,30,"Morigaon, Assam",poor,47776,daily_wage,0.0,semi_pucca,owned,2,0,0,0.9,0,0,0,25,65,High,75000
+7504 9584 2363,Anita Kumar,28,"Araria, Bihar",poor,35247,daily_wage,0.0,semi_pucca,owned,1,1,0,0.1,0,0,0,26,71,High,75000
+1575 6846 6328,Vijay Kumar,52,"Morigaon, Assam",poor,55548,daily_wage,0.0,kutcha,owned,3,1,0,0.3,0,0,1,25,85,Critical,100000
+9745 6073 6688,Usha Verma,52,"Srikakulam, Andhra Pradesh",poor,75719,daily_wage,0.0,semi_pucca,owned,3,1,0,0.5,0,0,0,22,72,High,75000
+9767 1136 9059,Mahesh Thakur,52,"Alappuzha, Kerala",lower_middle,127943,farmer,0.8,kutcha,owned,4,0,1,1.6,0,0,1,20,54,High,50000
+3675 7385 7199,Selvi Reddy,36,"Morigaon, Assam",poor,69125,daily_wage,0.0,kutcha,owned,4,1,1,0.4,0,0,0,25,65,High,75000
+7765 4080 2121,Siva Rao,33,"Morigaon, Assam",lower_middle,147713,daily_wage,0.0,semi_pucca,owned,1,0,0,2.4,0,0,1,25,70,High,50000
+9764 1362 4046,Lakshmi Sharma,28,"Araria, Bihar",upper_middle,733915,small_business,0.0,semi_pucca,owned,5,0,1,9.3,0,0,0,26,45,Medium,10000
+8597 1519 6410,Nalini Jha,27,"Morigaon, Assam",poor,77651,daily_wage,0.0,kutcha,owned,2,1,0,0.0,0,1,1,25,75,Critical,100000
+5078 7304 8257,Ramesh Devi,37,"Araria, Bihar",middle,383332,farmer,3.2,semi_pucca,owned,4,1,1,5.5,0,1,0,26,42,Medium,20000
+1691 9534 3001,Babu Patel,38,"Darbhanga, Bihar",poor,36157,daily_wage,0.0,kutcha,owned,2,1,0,0.5,0,0,1,28,83,Critical,100000
+2960 7484 4982,Vijay Rao,22,"Srikakulam, Andhra Pradesh",poor,33413,daily_wage,0.0,kutcha,owned,3,0,0,0.1,0,0,1,22,77,Critical,100000
+6824 3521 9787,Anita Sharma,28,"Darbhanga, Bihar",lower_middle,128679,small_business,0.0,semi_pucca,owned,3,0,0,1.5,0,0,1,28,72,High,50000
+3207 5107 1646,Murugan Jha,53,"Araria, Bihar",lower_middle,153184,small_business,0.0,kutcha,rented,4,0,0,2.4,0,0,1,26,80,Critical,75000
+9702 3539 8362,Vijay Das,40,"Srikakulam, Andhra Pradesh",poor,42437,daily_wage,0.0,semi_pucca,owned,2,1,0,0.3,0,0,0,22,67,High,75000
+2037 9830 7348,Rekha Mehta,34,"Morigaon, Assam",middle,180188,salaried_private,0.0,semi_pucca,owned,5,0,0,4.7,0,0,0,25,58,High,35000
+1512 4310 2753,Arvind Patel,53,"Alappuzha, Kerala",lower_middle,117110,small_business,0.0,semi_pucca,rented,3,1,0,0.3,0,0,1,20,74,High,50000
+4419 9051 2310,Mohan Kumar,51,"Araria, Bihar",poor,55467,daily_wage,0.0,kutcha,owned,3,1,0,0.7,0,1,1,26,81,Critical,100000
+4537 9511 2591,Saranya Das,28,"Darbhanga, Bihar",lower_middle,134519,farmer,2.1,semi_pucca,owned,2,0,1,1.9,0,0,0,28,44,Medium,30000
+7997 2705 3733,Krishnan Gupta,33,"Araria, Bihar",poor,73049,farmer,0.6,kutcha,rented,3,1,0,0.7,0,0,1,26,85,Critical,100000
+8054 6299 4943,Radha Yadav,58,"Alappuzha, Kerala",poor,40366,farmer,0.6,semi_pucca,rented,2,1,0,0.9,0,0,0,20,64,High,75000
+1267 9480 3213,Mahesh Chaudhary,41,"Alappuzha, Kerala",poor,78796,daily_wage,0.0,kutcha,owned,2,1,0,0.4,0,0,0,20,70,High,75000
+1618 8542 6827,Lakshmi Devi,31,"Darbhanga, Bihar",poor,50637,daily_wage,0.0,kutcha,rented,5,1,0,0.7,0,1,0,28,88,Critical,100000
+3832 8999 2562,Babu Thakur,60,"Araria, Bihar",lower_middle,112749,farmer,2.1,semi_pucca,owned,4,1,1,1.2,0,0,0,26,52,High,50000
+4714 1187 7266,Govind Devi,25,"Morigaon, Assam",middle,391901,farmer,1.3,pucca,owned,3,0,1,4.9,0,1,0,25,35,Medium,20000
+9269 2475 4638,Deepak Chaudhary,49,"Morigaon, Assam",poor,39802,daily_wage,0.0,kutcha,owned,3,1,0,0.2,0,0,0,25,80,Critical,100000
+3209 8879 4245,Usha Singh,53,"Morigaon, Assam",lower_middle,90819,small_business,0.0,kutcha,rented,4,0,0,1.6,0,1,1,25,74,High,50000
+7939 6984 6706,Meena Yadav,34,"Srikakulam, Andhra Pradesh",lower_middle,176425,farmer,1.0,semi_pucca,owned,1,0,0,1.3,0,0,0,22,56,High,50000
+4825 4271 7124,Deepak Sharma,31,"Morigaon, Assam",poor,49976,daily_wage,0.0,semi_pucca,owned,3,1,0,0.8,0,0,0,25,75,Critical,100000
+8373 8719 1372,Meena Pillai,43,"Darbhanga, Bihar",lower_middle,161396,daily_wage,0.0,semi_pucca,rented,3,0,0,2.5,0,1,0,28,73,High,50000
+9631 1712 5185,Priya Mishra,32,"Araria, Bihar",poor,79175,daily_wage,0.0,kutcha,owned,6,1,0,0.7,0,1,0,26,81,Critical,100000
+1312 5792 7332,Radha Devi,36,"Darbhanga, Bihar",lower_middle,160997,farmer,1.4,kutcha,owned,2,1,0,0.2,0,0,0,28,72,High,50000
+5053 9673 5995,Priya Sharma,43,"Srikakulam, Andhra Pradesh",poor,69131,daily_wage,0.0,kutcha,owned,2,1,0,0.5,0,0,0,22,72,High,75000
+7343 1482 5590,Anita Rao,36,"Srikakulam, Andhra Pradesh",poor,52726,farmer,0.4,semi_pucca,rented,2,1,0,1.0,0,0,1,22,71,High,75000
+3502 7987 6118,Govind Reddy,60,"Araria, Bihar",poor,35753,daily_wage,0.0,kutcha,owned,2,0,0,0.7,0,0,0,26,71,High,75000
+8046 3378 3589,Kamala Singh,42,"Morigaon, Assam",poor,72760,farmer,0.5,semi_pucca,rented,5,1,0,0.9,0,1,0,25,74,High,75000
+3489 4079 2749,Deepak Rao,30,"Darbhanga, Bihar",poor,39536,daily_wage,0.0,kutcha,rented,3,0,0,0.9,0,0,1,28,88,Critical,100000
+9230 8680 7126,Arun Singh,33,"Araria, Bihar",lower_middle,159377,daily_wage,0.0,semi_pucca,owned,6,0,0,0.7,0,0,1,26,81,Critical,75000
+2083 3901 8197,Prakash Nair,61,"Srikakulam, Andhra Pradesh",poor,42665,farmer,0.4,kutcha,rented,3,1,0,0.9,0,0,1,22,81,Critical,100000
+1630 9530 2791,Siva Verma,50,"Srikakulam, Andhra Pradesh",rich,1835086,business_owner,12.3,pucca,owned,5,0,1,20.8,0,0,0,22,27,Medium,0
+8201 7521 5989,Prakash Pillai,40,"Srikakulam, Andhra Pradesh",middle,315974,farmer,4.9,semi_pucca,owned,2,0,1,2.9,0,0,0,22,38,Medium,20000
+3945 9952 3216,Rajesh Devi,47,"Srikakulam, Andhra Pradesh",poor,33574,daily_wage,0.0,kutcha,rented,4,1,0,0.5,0,0,1,22,87,Critical,100000
+3686 3024 2494,Dinesh Mehta,29,"Srikakulam, Andhra Pradesh",upper_middle,413061,small_business,0.0,pucca,owned,3,1,0,9.4,0,1,0,22,47,Medium,10000
+3459 3656 3369,Vijay Mehta,33,"Srikakulam, Andhra Pradesh",lower_middle,130343,farmer,2.5,kutcha,owned,2,0,0,0.5,0,0,1,22,63,High,50000
+5146 1200 8514,Ramesh Chaudhary,53,"Darbhanga, Bihar",middle,261138,salaried_private,0.0,semi_pucca,owned,2,0,0,2.4,1,0,0,28,48,Medium,20000
+9967 5556 4401,Ramesh Reddy,25,"Srikakulam, Andhra Pradesh",poor,45589,daily_wage,0.0,semi_pucca,owned,3,1,0,0.5,0,0,0,22,72,High,75000
+3920 3643 5659,Rajan Yadav,61,"Araria, Bihar",lower_middle,84813,farmer,0.6,kutcha,owned,2,1,0,1.8,0,1,1,26,70,High,50000
+2063 5797 8713,Mohan Yadav,30,"Alappuzha, Kerala",poor,53605,daily_wage,0.0,kutcha,owned,3,0,0,0.3,0,0,1,20,75,Critical,100000
+8924 5705 7996,Kamala Das,60,"Darbhanga, Bihar",poor,64383,daily_wage,0.0,kutcha,owned,3,1,0,0.1,0,0,0,28,83,Critical,100000
+4812 5759 4171,Nalini Patel,22,"Morigaon, Assam",poor,70844,daily_wage,0.0,semi_pucca,owned,3,1,0,0.6,0,0,0,25,75,Critical,100000
+4478 1185 4296,Krishnan Iyer,66,"Darbhanga, Bihar",lower_middle,95456,daily_wage,0.0,semi_pucca,owned,1,0,0,1.8,0,0,1,28,73,High,50000
+4178 6415 6536,Priya Patel,65,"Morigaon, Assam",poor,63206,daily_wage,0.0,kutcha,rented,1,1,0,0.1,0,1,1,25,80,Critical,100000
+5904 6169 9779,Anita Verma,23,"Srikakulam, Andhra Pradesh",poor,61555,farmer,0.5,kutcha,owned,6,1,0,0.9,0,0,0,22,76,Critical,100000
+2914 6050 6152,Murugan Patel,67,"Araria, Bihar",poor,39784,daily_wage,0.0,kutcha,rented,4,1,1,1.0,0,0,0,26,71,High,75000
+4311 2517 8270,Radha Sharma,54,"Darbhanga, Bihar",poor,45574,daily_wage,0.0,kutcha,rented,4,1,0,0.3,0,0,1,28,93,Critical,100000
+3174 4361 1598,Rajan Verma,51,"Darbhanga, Bihar",middle,220390,salaried_private,0.0,pucca,owned,3,1,0,4.7,0,0,0,28,57,High,35000
+1368 6114 4438,Kamala Pillai,42,"Srikakulam, Andhra Pradesh",lower_middle,85771,daily_wage,0.0,kutcha,rented,3,0,0,0.3,0,0,1,22,82,Critical,75000
+4384 9888 6739,Rajesh Devi,57,"Araria, Bihar",poor,50915,daily_wage,0.0,kutcha,rented,5,0,0,0.3,0,1,1,26,86,Critical,100000
+1475 8712 1826,Anita Singh,28,"Morigaon, Assam",middle,364642,salaried_private,0.0,semi_pucca,owned,6,0,0,1.9,0,0,0,25,63,High,35000
+6444 4246 9740,Krishnan Pillai,27,"Srikakulam, Andhra Pradesh",poor,41729,daily_wage,0.0,kutcha,owned,4,0,0,0.6,0,0,1,22,77,Critical,100000
+3354 5227 6954,Santosh Reddy,47,"Srikakulam, Andhra Pradesh",upper_middle,766267,salaried_govt,0.0,semi_pucca,owned,2,0,1,9.2,1,0,0,22,12,Low,0
+3087 9322 2686,Krishnan Chaudhary,47,"Araria, Bihar",poor,31983,daily_wage,0.0,kutcha,owned,4,1,0,0.5,0,0,1,26,86,Critical,100000
+6582 4411 8063,Murugan Das,49,"Darbhanga, Bihar",lower_middle,119599,farmer,1.3,semi_pucca,owned,5,0,0,1.9,0,0,0,28,72,High,50000
+2599 8294 3886,Parvathi Mehta,41,"Alappuzha, Kerala",poor,41343,daily_wage,0.0,semi_pucca,owned,4,1,0,0.9,0,0,0,20,70,High,75000
+1003 3403 3444,Arvind Menon,50,"Srikakulam, Andhra Pradesh",poor,69086,daily_wage,0.0,semi_pucca,rented,2,0,0,0.5,0,0,1,22,72,High,75000
+6640 2462 1133,Saranya Yadav,61,"Alappuzha, Kerala",poor,59305,daily_wage,0.0,kutcha,owned,4,1,0,0.3,0,0,0,20,75,Critical,100000
+5623 1510 4854,Krishnan Devi,49,"Alappuzha, Kerala",lower_middle,88180,small_business,0.0,kutcha,owned,3,1,0,0.2,0,0,0,20,69,High,50000
+3527 5726 3056,Radha Yadav,30,"Alappuzha, Kerala",poor,55086,farmer,0.4,semi_pucca,rented,5,1,0,0.2,0,1,0,20,69,High,75000
+7974 3945 8444,Govind Gupta,54,"Darbhanga, Bihar",poor,77273,daily_wage,0.0,semi_pucca,rented,4,0,0,1.0,0,1,1,28,78,Critical,100000
+9948 7012 1548,Pushpa Yadav,24,"Srikakulam, Andhra Pradesh",lower_middle,104352,small_business,0.0,semi_pucca,owned,3,0,1,1.5,0,0,0,22,46,Medium,30000
+9469 2281 9574,Pushpa Gupta,61,"Alappuzha, Kerala",lower_middle,156056,small_business,0.0,semi_pucca,owned,2,0,0,0.4,0,0,0,20,54,High,50000
+1864 6628 9765,Saranya Chaudhary,22,"Darbhanga, Bihar",middle,345324,small_business,0.0,semi_pucca,owned,3,0,0,1.4,0,0,0,28,67,High,35000
+5267 2006 8752,Saranya Menon,59,"Srikakulam, Andhra Pradesh",poor,67615,farmer,0.4,semi_pucca,owned,5,0,0,0.8,0,1,1,22,66,High,75000
+3171 5603 5509,Pushpa Rao,38,"Araria, Bihar",poor,78324,daily_wage,0.0,semi_pucca,owned,3,1,0,0.1,0,0,0,26,76,Critical,100000
+3962 9640 1542,Rekha Thakur,43,"Darbhanga, Bihar",upper_middle,491547,salaried_private,0.0,pucca,owned,3,0,0,8.9,0,1,0,28,42,Medium,10000
+6653 1890 5331,Vijay Nair,29,"Darbhanga, Bihar",poor,40102,daily_wage,0.0,semi_pucca,owned,5,0,0,0.4,0,0,0,28,78,Critical,100000
+9690 8122 1194,Dinesh Singh,40,"Darbhanga, Bihar",lower_middle,119500,farmer,2.4,semi_pucca,owned,2,0,0,0.7,0,0,1,28,64,High,50000
+5429 5375 2610,Pushpa Mehta,38,"Srikakulam, Andhra Pradesh",poor,64750,farmer,0.0,semi_pucca,rented,4,1,0,0.6,0,0,1,22,79,Critical,100000
+9972 1173 1138,Sunita Mehta,26,"Alappuzha, Kerala",lower_middle,178184,small_business,0.0,semi_pucca,owned,3,1,0,2.3,0,0,0,20,64,High,50000
+2506 1931 4552,Priya Chaudhary,60,"Darbhanga, Bihar",upper_middle,675389,salaried_govt,0.0,semi_pucca,owned,4,1,1,5.0,1,1,0,28,28,Medium,10000
+5150 5826 8650,Meena Patel,64,"Darbhanga, Bihar",poor,38513,daily_wage,0.0,kutcha,owned,2,1,0,0.6,0,0,1,28,83,Critical,100000
+6450 1984 5230,Murugan Mishra,38,"Darbhanga, Bihar",poor,75365,farmer,0.8,kutcha,owned,4,0,0,0.2,0,1,0,28,67,High,75000
+5243 2692 1571,Rajan Gupta,26,"Araria, Bihar",poor,43151,farmer,0.2,kutcha,owned,3,1,0,0.1,0,0,1,26,80,Critical,100000
+1060 9444 9039,Jyothi Mishra,52,"Darbhanga, Bihar",middle,184919,salaried_private,0.0,semi_pucca,owned,5,0,1,4.2,0,0,0,28,46,Medium,20000
+5961 7563 1904,Krishnan Mehta,62,"Srikakulam, Andhra Pradesh",poor,34594,farmer,0.0,semi_pucca,owned,4,1,0,0.8,0,0,0,22,69,High,75000
+4129 5896 7391,Suresh Mishra,28,"Darbhanga, Bihar",poor,52286,daily_wage,0.0,semi_pucca,owned,5,1,0,0.8,0,0,1,28,88,Critical,100000
+6041 9186 9748,Mohan Iyer,50,"Morigaon, Assam",poor,58703,farmer,0.1,kutcha,owned,3,0,0,0.7,0,0,0,25,69,High,75000
+4817 2180 1604,Siva Singh,31,"Darbhanga, Bihar",middle,194694,farmer,3.9,semi_pucca,owned,1,1,0,2.1,0,0,0,28,64,High,35000
+8474 3796 2047,Saranya Devi,28,"Srikakulam, Andhra Pradesh",poor,70525,daily_wage,0.0,kutcha,owned,4,1,0,0.1,0,1,1,22,77,Critical,100000
+2979 9943 3250,Selvi Mehta,42,"Darbhanga, Bihar",middle,389498,salaried_private,0.0,pucca,owned,4,0,1,2.0,0,0,0,28,42,Medium,20000
+1666 3185 2637,Deepak Reddy,62,"Araria, Bihar",middle,225468,farmer,1.5,pucca,owned,3,1,1,3.1,0,0,0,26,46,Medium,20000
+4377 3344 5439,Arun Singh,55,"Alappuzha, Kerala",poor,61913,farmer,0.0,kutcha,rented,2,1,0,0.7,0,0,1,20,77,Critical,100000
+7861 1074 4860,Saranya Jha,34,"Srikakulam, Andhra Pradesh",poor,70012,farmer,0.6,kutcha,owned,5,1,0,0.6,0,1,0,22,71,High,75000
+2846 3444 8772,Anita Nair,53,"Darbhanga, Bihar",lower_middle,179762,daily_wage,0.0,semi_pucca,owned,3,0,0,1.4,0,0,1,28,78,Critical,75000
+1859 9804 3881,Suresh Devi,32,"Araria, Bihar",lower_middle,87081,farmer,1.1,semi_pucca,owned,5,0,0,1.0,0,0,0,26,70,High,50000
+4731 2606 4884,Meena Mehta,48,"Darbhanga, Bihar",poor,45420,farmer,0.6,semi_pucca,rented,3,0,0,0.2,0,0,1,28,77,Critical,100000
+3234 8499 4181,Murugan Jha,62,"Araria, Bihar",lower_middle,156689,small_business,0.0,kutcha,rented,3,0,0,0.4,0,0,0,26,75,Critical,75000
+4602 5835 3568,Vijay Mehta,62,"Morigaon, Assam",poor,32103,daily_wage,0.0,kutcha,rented,5,1,0,0.1,0,0,0,25,90,Critical,100000
+5573 1237 8014,Arun Gupta,37,"Alappuzha, Kerala",upper_middle,689803,salaried_govt,0.0,pucca,owned,3,0,1,10.7,1,0,0,20,11,Low,0
+8711 9261 1550,Suresh Sharma,49,"Araria, Bihar",middle,331903,salaried_private,0.0,semi_pucca,owned,5,1,0,5.7,0,0,0,26,64,High,35000
+3174 6872 5846,Govind Nair,37,"Alappuzha, Kerala",middle,392262,salaried_private,0.0,semi_pucca,owned,2,0,0,3.3,0,0,1,20,48,Medium,20000
+4030 7068 8607,Arvind Mishra,67,"Darbhanga, Bihar",lower_middle,101207,daily_wage,0.0,semi_pucca,owned,3,0,0,2.2,0,1,0,28,68,High,50000
+6500 1898 9433,Geetha Das,65,"Darbhanga, Bihar",lower_middle,123634,daily_wage,0.0,semi_pucca,owned,4,0,0,2.3,0,0,0,28,73,High,50000
+6487 4909 9841,Geetha Singh,29,"Morigaon, Assam",upper_middle,600778,salaried_private,0.0,semi_pucca,owned,5,1,0,6.3,1,0,1,25,55,High,15000
+9629 3010 8703,Nalini Verma,67,"Srikakulam, Andhra Pradesh",lower_middle,122003,farmer,1.0,semi_pucca,owned,1,1,0,0.8,0,1,1,22,61,High,50000
+2313 7400 3929,Parvathi Das,40,"Alappuzha, Kerala",rich,2344115,business_owner,14.3,pucca,owned,5,0,1,22.9,0,1,0,20,20,Low,0
+3163 8764 6680,Govind Iyer,48,"Darbhanga, Bihar",poor,75683,daily_wage,0.0,kutcha,rented,5,1,0,0.2,0,0,1,28,98,Critical,100000
+8965 9686 9986,Jyothi Mehta,50,"Srikakulam, Andhra Pradesh",upper_middle,499122,salaried_private,0.0,pucca,owned,3,1,0,5.1,0,0,0,22,51,High,15000
+8469 3725 3634,Krishnan Pillai,67,"Srikakulam, Andhra Pradesh",lower_middle,120172,farmer,1.0,semi_pucca,rented,3,1,0,2.9,0,0,1,22,76,Critical,75000
+3072 8223 5266,Babu Menon,45,"Alappuzha, Kerala",poor,76406,daily_wage,0.0,kutcha,owned,2,1,0,0.2,0,1,1,20,70,High,75000
+5940 2990 1408,Vijay Iyer,47,"Araria, Bihar",middle,365371,small_business,0.0,pucca,owned,0,1,0,2.7,0,0,0,26,56,High,35000
+3409 8243 6549,Arun Pillai,66,"Srikakulam, Andhra Pradesh",poor,40227,daily_wage,0.0,kutcha,owned,3,1,0,1.0,0,1,0,22,72,High,75000
+4197 9625 4639,Babu Sharma,39,"Darbhanga, Bihar",lower_middle,152215,small_business,0.0,kutcha,rented,5,1,1,1.9,0,1,1,28,72,High,50000
+6915 7513 3423,Rajesh Sharma,67,"Araria, Bihar",poor,59193,daily_wage,0.0,kutcha,owned,2,1,0,1.0,0,0,0,26,76,Critical,100000
+8249 5728 3683,Deepak Yadav,68,"Srikakulam, Andhra Pradesh",middle,277735,salaried_private,0.0,semi_pucca,owned,3,1,0,2.5,0,0,0,22,60,High,35000
+1108 7708 5478,Murugan Das,48,"Srikakulam, Andhra Pradesh",poor,69186,farmer,0.2,kutcha,owned,3,1,0,0.9,0,0,1,22,76,Critical,100000
+8593 4678 1439,Saranya Thakur,22,"Araria, Bihar",poor,38973,farmer,0.8,semi_pucca,owned,2,1,0,0.5,0,0,1,26,70,High,75000
+2955 5541 9078,Rekha Kumar,26,"Araria, Bihar",lower_middle,163435,farmer,1.8,semi_pucca,owned,3,0,0,1.3,0,0,0,26,65,High,50000
+9397 1287 5252,Meena Jha,32,"Alappuzha, Kerala",upper_middle,651912,small_business,0.0,pucca,owned,3,0,0,8.7,0,0,0,20,45,Medium,10000
+5749 5778 9677,Krishnan Sharma,62,"Alappuzha, Kerala",lower_middle,170869,daily_wage,0.0,kutcha,rented,4,1,0,0.8,0,0,0,20,80,Critical,75000
+6939 2570 9755,Saranya Rao,59,"Darbhanga, Bihar",poor,36193,daily_wage,0.0,semi_pucca,rented,4,1,0,0.3,0,1,0,28,78,Critical,100000
+4622 4087 9612,Lakshmi Verma,56,"Morigaon, Assam",poor,48442,daily_wage,0.0,kutcha,rented,6,1,0,0.3,0,0,1,25,95,Critical,100000
+9570 6604 3821,Arvind Gupta,67,"Alappuzha, Kerala",poor,35006,daily_wage,0.0,kutcha,owned,3,1,0,0.0,0,1,0,20,70,High,75000
+2830 2273 1308,Kavitha Yadav,52,"Morigaon, Assam",poor,44572,daily_wage,0.0,semi_pucca,owned,6,1,0,0.7,0,1,1,25,80,Critical,100000
+3028 4365 4277,Ramesh Devi,33,"Srikakulam, Andhra Pradesh",lower_middle,166479,daily_wage,0.0,kutcha,rented,3,0,1,0.4,0,1,1,22,62,High,50000
+2119 2623 1229,Rekha Verma,55,"Morigaon, Assam",poor,78902,daily_wage,0.0,kutcha,rented,4,0,0,0.3,0,1,0,25,75,Critical,100000
+4033 8203 2758,Arun Jha,33,"Araria, Bihar",poor,79415,daily_wage,0.0,kutcha,rented,5,1,0,0.1,0,1,0,26,86,Critical,100000
+1665 2347 6375,Radha Pillai,53,"Morigaon, Assam",poor,44912,farmer,0.8,kutcha,rented,2,1,0,0.5,0,0,0,25,74,High,75000
+8793 7020 3937,Prakash Das,22,"Darbhanga, Bihar",poor,78245,farmer,1.0,kutcha,owned,3,1,0,0.6,0,1,0,28,72,High,75000
+6959 4261 6548,Vijay Das,34,"Srikakulam, Andhra Pradesh",lower_middle,166317,daily_wage,0.0,semi_pucca,owned,1,0,1,1.2,0,0,0,22,47,Medium,30000
+8795 7626 8938,Selvi Jha,54,"Alappuzha, Kerala",middle,241045,salaried_private,0.0,semi_pucca,owned,3,0,0,2.4,0,0,0,20,53,High,35000
+3934 7269 6356,Nalini Kumar,31,"Morigaon, Assam",lower_middle,112858,farmer,1.0,semi_pucca,rented,3,0,0,0.1,0,0,0,25,69,High,50000
+6629 9856 9955,Dinesh Iyer,23,"Morigaon, Assam",lower_middle,148150,daily_wage,0.0,kutcha,owned,3,0,0,0.6,0,0,0,25,75,Critical,75000
+8056 3203 6119,Vijay Thakur,67,"Darbhanga, Bihar",poor,50614,farmer,0.4,kutcha,owned,2,0,1,0.2,0,0,0,28,52,High,75000
+1913 7412 5315,Vijay Verma,53,"Srikakulam, Andhra Pradesh",upper_middle,698243,salaried_govt,0.0,semi_pucca,owned,5,0,0,9.2,1,0,0,22,37,Medium,10000
+7235 2594 8014,Priya Mehta,44,"Alappuzha, Kerala",poor,48640,farmer,0.0,semi_pucca,owned,2,1,0,0.8,0,1,0,20,57,High,75000
+6531 3781 1322,Saranya Devi,56,"Morigaon, Assam",lower_middle,112011,small_business,0.0,semi_pucca,rented,3,1,0,1.8,0,0,1,25,79,Critical,75000
+7394 6282 2601,Babu Mishra,53,"Morigaon, Assam",poor,57687,daily_wage,0.0,kutcha,owned,2,1,0,0.3,0,0,0,25,75,Critical,100000
+9142 2234 9779,Usha Nair,35,"Darbhanga, Bihar",middle,310215,small_business,0.0,semi_pucca,owned,4,0,0,2.7,0,0,0,28,67,High,35000
+6518 5478 2102,Rajan Menon,58,"Morigaon, Assam",poor,67586,daily_wage,0.0,kutcha,rented,2,1,0,0.7,0,1,0,25,75,Critical,100000
+9443 8425 9971,Selvi Rao,33,"Alappuzha, Kerala",poor,35024,farmer,0.3,kutcha,rented,4,1,0,0.4,0,0,1,20,79,Critical,100000
+1981 9556 4287,Usha Menon,45,"Darbhanga, Bihar",poor,73306,daily_wage,0.0,semi_pucca,owned,1,0,0,0.5,0,0,0,28,68,High,75000
+7757 5373 5702,Mohan Nair,63,"Srikakulam, Andhra Pradesh",middle,219445,small_business,0.0,semi_pucca,owned,2,0,0,5.2,0,0,0,22,51,High,35000
+1606 4309 3610,Usha Yadav,39,"Araria, Bihar",lower_middle,133197,farmer,0.8,semi_pucca,owned,2,1,1,2.4,0,1,0,26,45,Medium,30000
+2375 6143 5882,Priya Sharma,26,"Araria, Bihar",poor,48204,daily_wage,0.0,kutcha,owned,2,1,0,0.9,0,0,0,26,76,Critical,100000
+9551 9605 5125,Rajesh Devi,53,"Srikakulam, Andhra Pradesh",middle,352341,salaried_private,0.0,pucca,owned,5,0,0,5.2,0,1,0,22,46,Medium,20000
+4571 3363 2750,Rekha Yadav,33,"Darbhanga, Bihar",middle,212054,small_business,0.0,pucca,owned,3,0,0,5.2,0,0,0,28,58,High,35000
+3374 6947 8786,Rekha Rao,67,"Araria, Bihar",lower_middle,157264,farmer,1.6,semi_pucca,owned,2,1,0,0.3,0,0,0,26,65,High,50000
+7302 6067 6945,Rekha Rao,65,"Morigaon, Assam",poor,69702,daily_wage,0.0,kutcha,owned,5,1,0,0.8,0,1,0,25,80,Critical,100000
+3625 8190 6196,Saranya Nair,63,"Darbhanga, Bihar",poor,55754,daily_wage,0.0,kutcha,owned,1,0,0,0.3,0,0,0,28,73,High,75000
+5275 9295 2087,Rajan Patel,44,"Srikakulam, Andhra Pradesh",poor,62223,daily_wage,0.0,kutcha,owned,0,1,0,0.8,0,0,0,22,67,High,75000
+6006 6140 2347,Selvi Nair,29,"Srikakulam, Andhra Pradesh",poor,79936,daily_wage,0.0,kutcha,owned,3,1,0,0.6,0,0,1,22,82,Critical,100000
+3842 6367 5616,Arvind Rao,34,"Araria, Bihar",lower_middle,165089,farmer,2.2,semi_pucca,owned,5,0,0,2.4,0,1,0,26,62,High,50000
+8576 4248 5289,Santosh Das,66,"Darbhanga, Bihar",middle,227681,salaried_private,0.0,semi_pucca,owned,2,1,0,5.2,0,1,1,28,56,High,35000
+8433 9096 2941,Kamala Yadav,36,"Araria, Bihar",poor,69347,daily_wage,0.0,kutcha,owned,3,1,0,0.4,0,0,1,26,86,Critical,100000
+3955 7693 3391,Prakash Yadav,23,"Araria, Bihar",lower_middle,144771,farmer,1.4,semi_pucca,rented,2,1,0,0.6,0,0,0,26,70,High,50000
+7283 7935 5198,Selvi Nair,26,"Morigaon, Assam",lower_middle,112547,farmer,1.9,kutcha,owned,3,1,0,0.0,0,1,1,25,74,High,50000
+5155 9266 7241,Suresh Kumar,41,"Darbhanga, Bihar",lower_middle,110781,daily_wage,0.0,kutcha,rented,3,0,0,1.8,0,0,0,28,83,Critical,75000
+2468 6198 9690,Parvathi Singh,49,"Srikakulam, Andhra Pradesh",poor,66671,daily_wage,0.0,kutcha,owned,5,1,0,0.2,0,0,1,22,87,Critical,100000
+5321 9470 6128,Mahesh Rao,49,"Araria, Bihar",middle,262121,salaried_private,0.0,semi_pucca,owned,1,1,1,5.4,0,0,0,26,39,Medium,20000
+3435 1894 4766,Anita Nair,33,"Araria, Bihar",upper_middle,657569,small_business,0.0,pucca,owned,3,0,1,10.7,0,0,0,26,36,Medium,10000
+8949 8499 9077,Krishnan Iyer,29,"Darbhanga, Bihar",upper_middle,485749,salaried_govt,0.0,pucca,owned,4,0,1,12.0,1,0,1,28,24,Low,0
+1067 9618 3958,Geetha Menon,48,"Araria, Bihar",lower_middle,117239,daily_wage,0.0,semi_pucca,rented,0,1,0,1.5,0,1,0,26,66,High,50000
+3519 1473 2328,Rajan Mehta,51,"Darbhanga, Bihar",poor,51538,daily_wage,0.0,kutcha,owned,3,1,0,0.7,0,0,0,28,83,Critical,100000
+1797 5635 6294,Arvind Nair,25,"Srikakulam, Andhra Pradesh",lower_middle,157883,small_business,0.0,semi_pucca,owned,2,0,0,0.1,0,0,0,22,56,High,50000
+3525 2975 5891,Selvi Pillai,53,"Darbhanga, Bihar",poor,41666,farmer,0.8,kutcha,owned,5,1,0,0.0,0,1,1,28,82,Critical,100000
+7931 2478 7922,Pushpa Menon,45,"Srikakulam, Andhra Pradesh",rich,1350656,business_owner,4.2,pucca,owned,3,1,1,9.6,0,0,0,22,27,Medium,0
+9638 9596 2375,Lakshmi Thakur,40,"Alappuzha, Kerala",poor,36091,daily_wage,0.0,kutcha,owned,2,1,0,0.5,0,1,0,20,65,High,75000
+2253 1738 9411,Anita Iyer,28,"Srikakulam, Andhra Pradesh",poor,61300,farmer,1.0,kutcha,owned,5,1,0,0.3,0,1,1,22,76,Critical,100000
+3985 7438 1741,Parvathi Patel,27,"Alappuzha, Kerala",poor,73309,farmer,0.8,kutcha,rented,3,0,0,0.6,0,0,1,20,74,High,75000
+4032 2281 5248,Sunita Nair,65,"Srikakulam, Andhra Pradesh",poor,59818,daily_wage,0.0,kutcha,owned,3,0,0,0.8,0,1,0,22,67,High,75000
+6910 7471 5958,Nalini Pillai,27,"Darbhanga, Bihar",lower_middle,131764,small_business,0.0,semi_pucca,rented,4,1,0,1.4,0,0,0,28,77,Critical,75000
+9824 4127 2410,Rekha Yadav,41,"Araria, Bihar",poor,31041,daily_wage,0.0,kutcha,rented,0,1,0,0.0,0,0,1,26,81,Critical,100000
+4975 4298 5830,Deepak Menon,58,"Srikakulam, Andhra Pradesh",poor,37632,daily_wage,0.0,kutcha,owned,5,1,0,0.7,0,0,0,22,82,Critical,100000
+8987 7548 8964,Mahesh Sharma,54,"Srikakulam, Andhra Pradesh",upper_middle,404128,salaried_private,0.0,pucca,owned,3,1,0,6.9,0,0,0,22,46,Medium,10000
+9106 6681 8345,Arun Devi,66,"Alappuzha, Kerala",lower_middle,149246,small_business,0.0,kutcha,owned,4,1,0,1.7,0,1,0,20,64,High,50000
+5806 7395 7829,Parvathi Singh,65,"Srikakulam, Andhra Pradesh",poor,42596,daily_wage,0.0,kutcha,rented,5,1,0,0.5,0,0,0,22,87,Critical,100000
+7815 9089 5975,Nalini Devi,37,"Morigaon, Assam",lower_middle,117022,small_business,0.0,kutcha,owned,3,0,1,1.4,0,1,1,25,54,High,50000
+8055 2867 4714,Mohan Mehta,29,"Araria, Bihar",lower_middle,114184,daily_wage,0.0,kutcha,owned,0,1,0,2.5,0,0,1,26,76,Critical,75000
+2706 1826 8173,Rajesh Chaudhary,51,"Alappuzha, Kerala",poor,52303,daily_wage,0.0,kutcha,rented,4,0,0,0.8,0,0,0,20,75,Critical,100000
+5786 8233 9288,Radha Patel,53,"Darbhanga, Bihar",poor,36676,daily_wage,0.0,semi_pucca,owned,3,0,0,0.1,0,0,0,28,73,High,75000
+5698 9274 3805,Arun Mehta,27,"Darbhanga, Bihar",poor,39029,daily_wage,0.0,semi_pucca,owned,3,1,0,1.0,0,0,1,28,83,Critical,100000
+7773 7706 8516,Arvind Yadav,55,"Morigaon, Assam",poor,53635,daily_wage,0.0,semi_pucca,owned,3,1,0,0.8,0,0,0,25,75,Critical,100000
+2007 7443 1607,Vijay Yadav,64,"Morigaon, Assam",middle,218164,farmer,3.9,semi_pucca,owned,2,0,0,1.3,0,1,0,25,51,High,35000
+6638 1129 5583,Saranya Mehta,55,"Araria, Bihar",lower_middle,166554,daily_wage,0.0,semi_pucca,owned,3,0,0,1.3,0,0,0,26,71,High,50000
+5940 2380 1605,Selvi Nair,56,"Alappuzha, Kerala",lower_middle,164394,farmer,1.6,semi_pucca,owned,5,1,0,2.0,0,0,0,20,69,High,50000
+3621 1383 1456,Kamala Mehta,56,"Morigaon, Assam",middle,368450,salaried_private,0.0,pucca,owned,2,0,1,6.0,0,1,0,25,19,Low,5000
+3028 1782 3043,Rajesh Jha,50,"Alappuzha, Kerala",poor,49919,daily_wage,0.0,kutcha,owned,2,0,0,0.1,0,1,1,20,65,High,75000
+4831 6739 5902,Siva Chaudhary,40,"Morigaon, Assam",lower_middle,110945,daily_wage,0.0,semi_pucca,rented,1,0,0,1.7,0,0,0,25,70,High,50000
+2342 2511 2018,Usha Yadav,49,"Alappuzha, Kerala",lower_middle,176667,farmer,1.2,semi_pucca,owned,3,1,0,2.5,0,0,1,20,69,High,50000
+9020 7830 3668,Usha Gupta,31,"Araria, Bihar",poor,54202,farmer,0.4,kutcha,owned,4,1,0,0.8,0,0,0,26,75,Critical,100000
+7051 2945 7694,Suresh Patel,29,"Alappuzha, Kerala",poor,38479,daily_wage,0.0,kutcha,owned,1,0,0,0.5,0,0,0,20,65,High,75000
+7910 1797 5999,Lakshmi Singh,40,"Darbhanga, Bihar",middle,255914,salaried_private,0.0,pucca,owned,3,1,1,2.9,0,1,0,28,42,Medium,20000
+8411 6534 7181,Saranya Menon,52,"Araria, Bihar",middle,308134,small_business,0.0,pucca,owned,3,1,0,1.3,0,1,0,26,61,High,35000
+4814 7478 6554,Govind Mishra,56,"Alappuzha, Kerala",poor,60207,daily_wage,0.0,kutcha,owned,4,0,0,0.1,0,0,1,20,75,Critical,100000
+2395 4152 9877,Meena Iyer,58,"Darbhanga, Bihar",middle,252712,salaried_private,0.0,pucca,owned,4,0,0,4.5,0,0,0,28,52,High,35000
+8278 2386 9741,Rekha Menon,60,"Darbhanga, Bihar",poor,31223,daily_wage,0.0,kutcha,owned,3,1,0,0.2,0,1,0,28,78,Critical,100000
+3755 5675 3359,Rajan Iyer,33,"Morigaon, Assam",poor,31524,farmer,0.2,semi_pucca,rented,1,1,1,0.5,0,0,1,25,59,High,75000
+2617 6243 3334,Saranya Mishra,48,"Morigaon, Assam",upper_middle,560848,salaried_private,0.0,semi_pucca,owned,1,0,0,3.5,0,1,0,25,43,Medium,10000
+2885 5412 1993,Rajesh Mishra,42,"Morigaon, Assam",upper_middle,463421,small_business,0.0,pucca,owned,3,1,1,8.4,0,1,0,25,35,Medium,10000
